@@ -1,0 +1,706 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,Data Scientist,$64K-$106K (Glassdoor est.),"***Please note: All hiring and recruitment at Spring Health is handled with a valid '@springhealth.com' email address only or from recruitment firms @oxeonpartners.com, @neptunepeople.com, @rivierapartners.com, or @swingtalent.com. If you receive a message from a sender whose domain is not @springhealth.com, please beware that those communications are not authorized or coming from Spring Health. ***
+
+Our mission: helping individuals and organizations thrive by eliminating every barrier to mental health.
+
+Spring Health is a comprehensive mental health benefit for employers. We help employees understand their mental health issues and connect with best-in-class providers to get the right treatment at the right time.
+
+We are an award-winning, passionate, and mission-driven team with the support of leaders in psychiatry, and backed by prominent VCs including Northzone, Rethink, RRE, and General Catalyst. From early detection to full recovery, Spring Health is the only clinically validated solution proven to be more effective than traditional mental healthcare. By combining the latest technology with vetted providers, we engage 1 in 3 employees, reduce recovery times, and reduce healthcare costs.
+
+We are looking for a Data Scientist to join our R&D team. You will be responsible for designing, developing, and implementing data products throughout our organization. You will collaborate with a team of engineers, designers, product managers, social workers, psychologists, and scientists.
+
+We are creating the future of mental healthcare: within your first year, you’ll discover something no human ever knew before about mental health.
+What you’ll do at Spring Health:
+Develop analytics and secure reporting approaches for a high-performing network of mental health providers
+Work with product and engineering teams to improve user acquisition, patient adherence, and clinical outcomes
+Develop data infrastructure to ingest and integrate multiple data sources, ETL, validate, and create automated reports for clients
+Design and build data deliverables across multiple contexts, such as: claims analyses/financial ROI, longitudinal treatment outcomes, provider quality, and risk stratification algorithms
+What we expect from you:
+BA/BS in Psychology, Economics, Biology, Biochemistry, or other STEM-related field.
+Fluency in R
+Strong presentation skills — fluently tell a compelling clinical or business story with data
+Strong written communication skills — quickly compose client-facing communications or publications for peer-review
+Experience with Git, Python, SQL, parallel/distributed computing, cloud computing, and other data science toolkits
+Experience or knowledge of traditional statistics, e.g. measures of central tendency, descriptive statistics, and inferential statistics
+Possess the initiative and ability to self-direct projects and solve unconventional problems
+Proximity to NYC: minimum 2 days per week in our NY HQ, max 3 days remote
+What we’d love to see:
+STEM PhD— especially in Applied Sciences (e.g. Biostatistics, Psychiatry, Psychology, Biological Sciences), or 3-4 years of equivalent data analysis experience
+Experience using any of the following data: EMR, clinical trials, claims data, longitudinal
+Demonstrated passion for, and understanding of, mental illness and broader U.S. healthcare system
+Experience programming and testing statistical/machine learning models
+Experience using data visualization techniques to present key findings
+Ability to quickly and independently pick up concepts and skills
+Experience working cross-functionally with operations, product, engineering, and design teams
+Why you’ll love working at Spring Health:
+Competitive compensation plan, including equity in the company: we want you to own a piece of what you’re building.
+Comprehensive benefits: we offer 401k, health, dental and vision benefits as well as free mental healthcare!
+World-leading science: we’re shaping the future of mental healthcare, and are at the forefront of peer-reviewed science. You’ll be the first human to discover something about how to treat mental illness.
+Flexible vacation plan: our open vacation-policy allows you to take the time off you need when you need it.
+Great people: make an impact on something that truly helps people alongside an incredible team.
+We care about diversity: diversity allows us to build an excellent patient experience. We are an equal opportunity employer and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+We value: humility, entrepreneurship, passion for mental health, honesty and candor/directness
+If you're interested in the role, please submit your CV/Resume via email to careers@springhealth.com, along with one code sample and one writing sample.
+
+The code samples can be in any language, and the writing sample should either be 250 words, or include a 250 word abstract. Communication skills are really important to us, and we are particularly looking for a simple, direct writing style and the ability to articulate a question and research methodology clearly.",3.6,"Spring Health
+3.6","New York, NY","New York, NY",1 to 50 employees,2016,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1
+1,Data Scientist,$64K-$106K (Glassdoor est.),"Secure our Nation, Ignite your Future
+
+Join the top Information Technology and Analytic professionals in the industry to make invaluable contributions to our national security on a daily basis. In this innovative, self-contained, Big Data environment, the ManTech team is responsible for everything from infrastructure, to application development, to data science, to advanced analytics and beyond. The team is diverse, the questions are thought-provoking, and the opportunities for growth and advancement are numerous
+
+The successful candidate will possess a diverse range of data-focused skills and experience, both technical and analytical. They will have a strong desire and capability for problem solving, data analysis and troubleshooting, analytical thinking, and experimentation.
+
+Duties, Tasks & Responsibilities
+Working with large, complex, and disparate data sets
+Designing and implementing innovative ways to analyze and exploit the Sponsors data holdings
+Researching and reporting on a wide variety of Sponsor inquiries
+Raising proactive inquiries to the Sponsor based on observations and proposed data analysis/exploitation
+Solving difficult, non-routine problems by applying advanced analytical methodologies, and improving analytic methodologies
+Developing custom searches
+Communicating and coordinating with internal and external partners as needed
+Required Experience, Skills, & Technologies
+
+Thorough knowledge of appropriate analytic tools and methodologies in one or more of the following:
+Applied mathematics (e.g. probability and statistics, formal modeling, computational social sciences)
+Computer programming (e.g. programming languages, math/statistics packages, computer science, machine learning, scientific computing)
+Ability to code or script in one or more general programming language
+Experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection
+Knowledge of relational databases, including SQL and large-scale distributed systems (e.g. Hadoop)
+Expertise with statistical data analysis (e.g. linear models, multivariate analysis, stochastic models, sampling methods)
+Demonstrated effectiveness in collecting information and accurately representing/visualizing it to non-technical third parties
+TS/SCI with Polygraph
+Desired Experience, Skills & Technologies
+Previous investigative experience, using a combination of technical and analytic skills
+#LI-DU1
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.",4.2,"ManTech
+4.2","Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1
+2,"Data Scientist - Statistics, Early Career",$64K-$106K (Glassdoor est.),"*Organization and Job ID**
+Job ID: 310918
+
+Directorate: National Security Directorate
+
+Division: Computing & Analytics
+
+Group: Applied Statistics & Computational Modeling
+*Job Description**
+This position is for a Scientist in Data Science and Applied or Mathematical Statistics who will provide scientific and technical research within the National Security Directorate (NSD) supporting the data analytics capabilities of the Computational Analytics Division. The Scientist will develop and apply fundamental mathematical or statistical theory to advance analytic solutions in various scientific domains. The Scientist must be able to draw from a strong statistical background, in areas including experimental design, advanced statistical modeling (e.g. mixed linear models, nonparametric models, etc.), machine learning, and computer simulations, to recognize patterns, characterize uncertainty, and develop predictive models using structured and unstructured data. The Scientist will produce solutions driven by domain science and mathematical statistical science from complex and high-dimensional datasets and design, develop, and evaluate advanced algorithms that lead to optimal value extraction from data. In addition to technical research this position expects participation and career development in task management, proposal writing, business development, and publishing.
+
+Operating on the data-information-knowledge continuum, staff at PNNL employ diverse methods to confront significant problems of national interest from distilling distributed data into knowledge that supports decision processes to enabling resilient technologies that enhance computing at extreme scales. Our research portfolio spanning from basic to applied includes statistical modeling and experimental design, applied statistics, applied mathematics, machine learning, operations research, optimization, and other advanced statistical and mathematical domains.
+
+Computing researchers and practitioners work side by side to apply advanced theories, methods, algorithms, models, evaluation tools and testbeds, and computational-based solutions to address complex scientific challenges affecting energy, biological sciences, the environment, and national security. Core domain knowledge is beneficial, such as in the nuclear, biological, energy, materials, or chemical science spaces.
+*The hiring level will be determined based on the education, experience, and skill set of the successful candidate based on the following:**
+*Level II** : Leads specific tasks of the project to meet scope, schedule and budget. Expected to contribute professionally, building a professional reputation for technical expertise. Fully applying and interpreting standard theories, principles, methods, tools and technologies. Contributes technical content to proposals and develops business through excellent project performance.
+*Level III:** Manages small to moderate projects and/or major project tasks. Integrates intellectual and technical capabilities of work teams. Enhances technical/professional skills of junior staff through active mentoring and training. Generates ideas for new proposals and participates in business development activities
+*Minimum Qualifications**
++ BS/BA with 2 years of experience, MS/MA with 0 years of experience, or PhD with 0 years of experience
+*Preferred Qualifications**
++ BS/BA with 5 years of experience, MS/MA with 3 years of experience, or PhD with 1 year of experience, focused in statistics with experience involving increasing levels of scientific research, task management, and programmatic responsibility
+
++ Position requires ability to apply theories and develop technical approaches with minimal oversight
+
++ Position requires the ability to effectively team with scientists and engineers to develop creative solutions to complex problems
+*Equal Employment Opportunity**
+Battelle Memorial Institute (BMI) at Pacific Northwest National Laboratory (PNNL) is an Affirmative Action/Equal Opportunity Employer and supports diversity in the workplace. All employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, marital or family status, sexual orientation, gender identity, or genetic information. All BMI staff must be able to demonstrate the legal right to work in the United States. BMI is an E-Verify employer. Learn more at jobs.pnnl.gov.
+*_Please be aware that the Department of Energy (DOE) prohibits DOE employees and contractors from participation in certain foreign government talent recruitment programs. If you are offered a position at PNNL and are currently a participant in a foreign government talent recruitment program you will be required to disclose this information before your first day of employment._**
+*Other Information**
+Due to business needs and client space, US Citizenship is required:
+
+The Pacific Northwest National Laboratory is subject to the Department of Energy Unclassified Foreign Visits & Assignment Program site, information, technologies, and equipment access requirements.
+
+_Directorate:_ _National Security_
+
+_Job Category:_ _Scientists/Scientific Support_
+
+_Group:_ _Appld Stats & Comp Modeling_
+
+_Opening Date:_ _2020-06-03_
+
+_Closing Date:_ _2020-09-01_",3.8,"Pacific Northwest National Laboratory
+3.8","Seattle, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory"
+3,Data Scientist,$64K-$106K (Glassdoor est.),"JOB DESCRIPTION:
+
+Do you have a passion for Data and Machine Learning? Do you dream of working with customers on their most forward-looking AI initiatives? Does the challenge of developing modern machine learning solutions to solve real-world manufacturing problems exciting to you?
+
+We develop software for monitoring semiconductor manufacturing process and are looking to leverage the latest technologies to address our customer's needs. You will be part of a team that investigates and builds solutions based all the data available in factories, ranging from time series data, to post manufacturing data, to production logs. You will be working side by side with application developers and customers on real world problems with actual manufacturing data.
+
+JOB FUNCTION:
+
+Basic and applied research in statistical machine learning, deep learning, and data science as well as signal and information processing to advance the state of the art in time series analysis of semiconductor manufacturing data.
+
+Responsibilities:
+Perform data analysis, data pre-processing, and feature engineering in support of advanced machine learning algorithm development. Incorporate physical and operational insights/constraints into statistical models to achieve a high degree of robustness.
+Prototype algorithms for proof of concept, validation, and software implementation.
+Support performance evaluations and the transition of algorithms into existing fault detection and classification systems.
+Convey the results of scientific research to sponsors and the scientific community through briefings, conferences and peer-reviewed publications.
+Other related functions as assigned.
+
+REQUIRED QUALIFICATIONS:
+Bachelor's degree in computer science or chemical engineering or related technical field.
+Demonstrated ability in machine learning/artificial intelligence (ML/AI) development and/or scientific modelling and data analysis.
+Demonstrated ability with python/MATLAB or similar abstract language. Experience with both traditional ML and modern deep learning approaches.
+Experience with agile development practices and Git version control.
+Experience with one or more of the DNN frameworks like TensorFlow, PyTorch, Chainer.
+Experience with SQL, Graph stores, or NoSQL stores.
+Applicant must have a dynamic skill set, be willing to work with new technologies, be highly organized and capable of planning and coordinating multiple tasks. The position will require attention to detail, effective problem solving skills and excellent judgment. Ability to work independently with sensitive and confidential information, maintain a professional demeanor, work as a team member without daily supervision.
+
+COMPENSATION & BENEFITS:
+
+Compensation will be commensurate with experience including a competitive base salary, bonus opportunity, competitive benefits package, and relocation assistance.
+
+INFICON, is committed to ensuring that our online application process provides an equal opportunity to all job seekers that apply without regard to race, religion, ethnicity, national origin, citizenship, gender, age, protected veteran status, disability status, genetic information, sexual orientation, or any other protected characteristic. A notice describing Federal equal employment opportunity laws is available here and here to reaffirm this commitment.
+
+PI120660357",3.5,"INFICON
+3.5","Newton, MA","Bad Ragaz, Switzerland",501 to 1000 employees,2000,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$100 to $500 million (USD),"MKS Instruments, Pfeiffer Vacuum, Agilent Technologies"
+4,Associate Business Intelligence Data Scientist,$64K-$106K (Glassdoor est.),"Blending customer advisory, customer support, and customer experience, Carousel’s supercharged Customer Success Obsessed mission goes beyond any one IT function. Rather, it’s a mindset, a mantra, and a company-wide drive to bring extreme technology value to Carousel customers—so they can bring value to theirs.
+With deep expertise across a vast portfolio of technologies, including security, unified communications and collaboration, data center, networking, managed services, and cloud solutions, Carousel can design, implement, and support solutions tailored to meet the unique needs of each customer. By offering professional and managed services with flexible deployments in the cloud, Carousel ensures customers achieve agility and use technologies in the way most effective for their business.
+A legion of 1,300, the Carousel team has been committed to the art of customer success for its more than 6,000 highly satisfied customers since 1992. The company has been recognized by multiple publications and industry consortiums as a top technology integrator and managed services and cloud solution provider—including the Inc. 500/5000, Healthcare Informatics 100, and CRN MSP Elite 150. Headquartered in Exeter, RI, the company has offices across the United States and internationally—with three Network Operations Centers. To learn more, visit CarouselIndustries.com.
+
+Position Summary:
+The Associate Business Intelligence Data Scientist is responsible for leveraging large quantities data to assist executives, business partners, and employees to make data-driven decisions. This position will focus largely on defining data relationships (inclusive of off-system spreadsheets), data mining and data modeling which will be the basis for actionable intelligence dashboards and reports. The Associate BI Data Scientist will utilize their experience to explore data, applying statistical techniques, and designing dashboards and reports that provide value to the company and its people. This position will collaborate with BSO Infrastructure and Systems Teams along with other subject matter experts to evolve a robust reporting universe that is streamlined and transparent. The Associate BI Data Scientist will report to the Director, Business Process and Continuous Improvement and join a highly agile cross-functional team that leads some of the most critical projects for the BSO department and Carousel Industries as an organization.
+Essential Duties and Responsibilities:
+Provide descriptive data analysis, and creative problem-solving using SQL programming language
+Lead projects regarding data exploration, relationship management and data-driven story telling
+Ability to create practical, actionable plans that are coherent and understood by stakeholders
+Partner with BSO teams, business, and functional groups to provide actionable intelligence regarding operational effectiveness and revenue growth
+Gather, manipulate, and explore large datasets to test hypotheses and extract useful insights
+Create and manage reporting, data narratives, and analytics deliverables for the CI Governance board and committee
+Build innovative data models, reports and dashboards
+Troubleshoot data conflicts and inconsistencies through data mining and collaboration with the business teams
+Evaluate and develop data monitoring reports to provide further insight into process and change management
+Develop roadmaps with proposed solutions from an end-to-end perspective
+Partner with clients to promote evidence-based decision-making and devise action plans that influence behavior changes
+Investigate and create trend analysis models to promote operational effectiveness
+
+Qualifications:
+B.S. in a quantitative field required, or minimum of 2 years related experience.
+Experience in financial and/or sales driven data modeling is a plus.
+Demonstrated analytical, troubleshooting, and problem-solving skills.
+Business Process Mapping exposure.
+Attention to detail and ability to deliver and support a quality service experience.
+Experience presenting in front of small to medium group environments.
+Demonstrated experience with industry report writers such as Power BI, Tableau, Business Objects SSRS, or other BI reporting solutions.
+Experience with basic to intermediate level coding in statistical programming languages. R and or Python preferred.
+Experience with Salesforce, ServiceNow, Sage Intacct preferred.
+Experience with writing/updating basic to intermediate (SQL) queries.
+Strong problem-solving skills.
+Superior verbal and written communication skills.
+Ability to organize and prioritize concurrent projects.
+Ability to work independently and collaboratively.
+Create, maintain, and optimize reports, including SQL statements, views, functions, and stored procedures.
+Effectively gather requirements and design new reports, troubleshoot, research, and correction of reports and database objects requiring review.
+Accurately estimate effort for requested custom reports.
+Carousel Industries is an Equal Opportunity Employer: Carousel provides equal employment opportunity to all employees and applicants for employment free from unlawful discrimination based on race, color, religion, gender, age, national origin, disability, veteran status, marital status, sexual orientation or any other status or condition protected by local, state or federal law.",3.1,"Carousel Industries
+3.1","Exeter, RI","Exeter, RI",1001 to 5000 employees,1992,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD),-1
+5,Staff Data Scientist - Analytics,$64K-$106K (Glassdoor est.),"Intuit is seeking a Staff Data Scientist to cover Intuits Consumer Group (TurboTax, Mint, Turbo). We have an exciting opportunity to help shape how we use data to generate hypotheses, surface insights, and build models in order to personalize customer experiences and provide awesome outcomes for the business and our customers. This role will partner closely with data engineering, data analytics, data science, marketing managers, and product management.",4.5,"Intuit - Data
+4.5","San Diego, CA","Mountain View, CA",5001 to 10000 employees,1983,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),"Square, PayPal, H&R Block"
+6,Data Analyst,$64K-$106K (Glassdoor est.),"Data Analyst
+
+Location: Fort Meade, MD
+
+Department: Defense Intelligence Agency (DIA)/ CYBERCOM
+
+Type: Full Time
+
+Minimum Experience: Experienced
+
+Security Clearance Level: Active TS/SCI w/ CI Poly
+
+*The clearance level stated above must be met for consideration for this specific opportunity. Unfortunately, FTC is unable to sponsor at this time.
+
+Military Veterans and individuals with disabilities are encouraged to apply!
+
+Favor TechConsulting, LLC (FTC) is seeking a talented Data Analyst/Operations Research Analyst with experience within the Intelligence Community.
+
+Essential Duties and Responsibilities:
+
+Provide operations research analysis to support a US CYBERCOMs J2 and Joint Intelligence Operations Center. Work with security defense and combatant command assessments of past activities to progress toward campaign objectives. Leverage advanced technologies, scientific principles, theories, and concepts to assist the client with advancing performance and operating efficiently. Assist the client with planning programs, including recommending technological application programs to accomplish long-range objectives.
+
+Expected Experience:
+Prior experience as an Operations Research Analyst
+Experience in working with web developers to create leadership and SME dashboards, including web-enabled data collection for operations, activities, and investments (OAIs)
+Ability to build analytical models for strategic and campaign assessments, including military assessment and strategic risks
+High Desirable: Prior Intelligence Experience (such as All-Source, CI, HUMINT, SIGINT)
+Strong ability to use and create MS Office products such as word documents, PowerPoint, access and excel databases.
+Able to work independently and without direct supervision.
+Education and/or Work Experience Requirements:
+Five (5) years minimum experience. Bachelors degree in Computer Science, Engineering, Engineering Management, Math, or equivalent. An additional four years of relevant of experience may be considered as a substitute.
+Physical Requirements:
+Ability to safely and successfully perform the essential job functions consistent with the ADA, FMLA and other federal, state and local standards, including meeting qualitative and/or quantitative productivity standards.
+Ability to maintain regular, punctual attendance consistent with the ADA, FMLA and other federal, state, local, and organizational standards
+Must be able to talk, listen and speak clearly on telephone
+Expert-level command of the English language
+Additional Information:
+
+U.S Citizenship is required for this specific opportunity and all selected applicants will be subject to a government security investigation. This includes but not limited to; meeting the eligibility requirements for access to classified information and the ability to obtain a government-granted security clearance. Individuals may also be subject to a background investigation including, but not limited to; criminal history, employment verification, education verification, drug testing, and creditworthiness.
+
+Favor TechConsulting is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, marital status, disability, veteran status, sexual orientation, or genetic information.
+
+Powered by JazzHR",4.1,"Favor TechConsulting
+4.1","Fort Meade, MD","Vienna, VA",201 to 500 employees,2007,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1
+7,Data Scientist,$64K-$106K (Glassdoor est.),"Job Brief
+
+The ideal candidate will have previous Data Modeling experience. Strong preference will be given to candidates with an actuarial background in the property and casualty insurance space.
+
+Overview
+
+IFG Companies is in search of a Data Scientist to join its growing Predictive Modeling team.
+
+The ideal candidate will have previous Data Modeling experience. Strong preference will be given to candidates with an actuarial background in the property and casualty insurance space.
+
+Responsibilities
+Build predictive and/or Machine Learning models in SAS
+Research new statistical and mathematical techniques that are suitable and helpful for solving business related problems
+Prepare data for modelling and make best/creative use of applicable and available internal or external data
+Identifying and integrating new datasets that can be leveraged for modeling efforts
+Support related processes around effectively deploying model to business
+Effectively communicate results in written, oral and presentation formats to technical and non-technical audiences
+Qualifications
+Bachelor’s degree in statistics, applied mathematics, or related discipline
+3+ years of Data Modeling or similar experience.
+Experience with predictive modeling (classification, regression, parameter tuning, optimization criteria, feature selection), preferably with multiple techniques
+Experience in model validation techniques, model testing and continuous monitoring of model performance
+Experience in Property & Casualty Insurance is strongly preferred.
+Demonstrated experience working with large relational data sets.
+Working knowledge in SAS, R, Python or another platform to develop and implement predictive models.
+Ability and willingness to quickly gain knowledge of SAS enterprise guide and enterprise miner.
+Ability to communicate complex technical information in common language to foster teaching and analytics guidance to internal customers.
+Advanced experience in analytics, data cleaning, and predictive modeling.
+Ability to write queries in SQL.
+Detail-oriented and ability to work collaboratively
+Physical Demands
+Physical demands are considered to be that of an office environment, climate controlled, with minimal physical exertion. This position requires prolonged sitting, ability to utilize a computer and interactions with others in meetings or via phone.
+Benefits
+We offer a competitive compensation and benefits package including medical, dental, vision, 401(k), flexible spending, short-term and long-term disability insurance, life insurance, long-term care, education assistance and paid time off.
+IFG Companies is an equal opportunity employer committed to a diverse workforce. M/F/D/V",2.9,"IFG Companies
+2.9","New York, NY","Hartford, CT",201 to 500 employees,1985,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,"Colony Specialty, Markel, RLI"
+8,Data Scientist / Machine Learning Expert,$64K-$106K (Glassdoor est.),"Posting Title
+Data Scientist / Machine Learning Expert
+
+04-Feb-2020
+
+Job ID
+288341BR
+
+Job Description
+ONE Global Discovery Chemistry Community working across 7 disease areas at the Novartis Institutes for BioMedical Research (NIBR) is seeking a highly talented and motivated Data Scientist to join our Global Discovery Chemistry Department in Cambridge, MA. The successful candidate will join an energizing and collaborative research organization, working alongside colleagues who are committed to improving human health through the discovery of transformative medicines.
+
+We are seeking a unique data scientist with the skills, experience and passion to extract new knowledge and disruptive insights from the large and rich body of data collected by one of the world’s leading pharmaceutical companies. You will be a member of our global Computer-Aided Drug Discovery (CADD) group, an interdisciplinary team of expert molecular modelers, cheminformaticians, and data scientists. Teamed up with domain experts from biology, chemistry and translational medicine, this is a unique opportunity to develop and apply cutting-edge machine learning technologies to uncover insights to real-world drug discovery problems and innovate paths to new medicines.
+
+Your responsibilities include:
+•Develop and implement methods for extracting patterns and correlations from both internal and external data sources using machine learning toolkits
+•Develop workflows for conducting comparative analysis among Novartis’ diverse data sources as well as generalizing approaches developed in-house or externally.
+•Enable open-source solutions for internal use and implement cutting-edge published scientific methods.
+•Develop customized machine learning solutions including data querying and knowledge extraction.
+•Interact and be part of interdisciplinary project teams to drive effective decision-making by mining and developing predictive models
+•Develop new skills in the area of cheminformatics and drug discovery and leverage those to accelerate development of new machine learning algorithms
+•Keep ahead of scientific literature and interact with internal and external scientists to integrate novel data science technologies
+
+Minimum requirements
+Education:
+
+Advanced degree (M.Sc. or higher) in data science and machine learning, statistics, computer sciences, cheminformatics, mathematics, computational chemistry, computational biology, bioinformatics, or related field.
+
+Minimum experience & skills:
+
+•In-depth experience with modern and classical machine learning methods
+•Strong statistical foundation with broad knowledge of supervised and unsupervised techniques
+•Programming experience (preferred Python, R, C++) preferably in Linux and high-performance computing environments
+•Good listener - strong, concise, and consistent written and oral communication
+•Talent for communicating stories through data visualizations
+•Proven ability to collaborate with others
+•A passion for tackling challenging problems and developing creative solutions
+•A drive for self-development with a focus on scientific know-how
+
+Additional qualifications that will help in the role:
+•Demonstrated impact using machine learning libraries, such as scikit-learn, PyTorch or similar in a cheminformatics context
+•Hands on experience with data analysis software such as Spotfire, R-shiny or similar
+•Working experience with open-source cheminformatics toolkits such as RDKit
+•Working experience with source-code management systems such as Git/github/bitbucket
+•Familiar with the foundational concepts in molecular biology, pharmacology or medicine. Working knowledge of medicinal chemistry and drug discovery is a plus
+
+Why consider Novartis?
+
+750 million. That’s how many lives our products touch. And while we’re proud of that fact, in this world of digital and technological transformation, we must also ask ourselves this: how can we continue to improve and extend even more people’s lives?
+
+We believe the answers are found when curious, courageous and collaborative people like you are brought together in an inspiring environment. Where you’re given opportunities to explore the power of digital and data. Where you’re empowered to risk failure by taking smart risks, and where you’re surrounded by people who share your determination to tackle the world’s toughest medical challenges.
+
+We are Novartis. Join us and help us reimagine medicine.
+
+Job Type
+Full Time
+
+Country
+USA
+
+Work Location
+Cambridge, MA
+
+Functional Area
+Research & Development
+
+Division
+NIBR
+
+Business Unit
+Global Discovery Chemistry
+
+Employment Type
+Regular
+
+Company/Legal Entity
+NIBRI
+
+EEO Statement
+The Novartis Group of Companies are Equal Opportunity Employers and take pride in maintaining a diverse environment. We do not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.
+
+Shift Work
+No",3.9,"Novartis
+3.9","Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+9,Data Analyst,$64K-$106K (Glassdoor est.),"File #: 2020-26-0616
+Position: Data Analyst –Temporary Full Time, contract until October 31, 2020
+Department: Decision Support
+Location: Work From Home until further notice, return to work location: 89 Queensway, Mississauga, ON (Trillium Health Partners – Mississauga Hospital Location)
+Posted: June 16, 2020
+Application Deadline: Posted until filled
+Application deadline for internal candidates: June 23, 2020
+
+Established in 2001, Shared Services West is a not-for-profit shared services organization with expertise in supply chain management, process optimization, and redevelopment planning. Working collaboratively with our stakeholders, we deliver cost-efficient services with a focus on innovative solutions.
+As a company, we are built upon a family ethos. We are proud of our values and our culture, which are at the heart of our company. They set the standard for how we behave and work.
+
+IS THIS YOU?
+You are a data analyst interested in growing your career and specializing in the healthcare industry. You thrive in a fast-paced, team environment and value contributing to high quality data. You enjoy working with large data sets and are detail oriented. You are willing to go the extra mile for the stakeholders you serve and members on your team.
+
+JOB SUMMARY
+The Data Analyst will report to the Manager of Business Intelligence. Primarily, this role will be responsible for the execution of a Materials Management system data merger/migration project. The Data Analyst may also be required to support operational reporting and assist with the development of new reports for the project and ongoing operations.
+
+PRIMARY RESPONSIBILITIES:
+The primary duties and responsibilities include, but are not limited to:
+Collaborative work with internal and external customers to answer questions and offer guidance.
+Creation and analysis of reports and statistics used in decision support or for other business projects.
+Reviewing, improving, implementing and monitoring process improvements.
+Providing analysis and reports as needed to the SSW Senior Management.
+In consultation with the Data Management team and Business Intelligence team, identifying and implementing operational processes to improve database management.
+Other duties as assigned.
+
+POSITION REQUIREMENTS
+Education:
+Undergraduate degree/diploma in Business, Finance, Sciences, or related analytical discipline.
+Work Experience:
+Minimum of 1 year experience in an Analytical role
+Experience in a healthcare environment is an asset
+Knowledge and Understanding:
+Thorough understanding of the concepts of supply chain functions and analytics
+Knowledge and understanding of Broader Public Sector Procurement Directives is an asset
+Understanding of business operating and financial processes
+Technical Skills:
+Advanced MS Excel skills
+SQL or database reporting considered an asset
+Candidates will be asked to complete a compulsory Excel test
+Personal Skills:
+People interaction
+Willingness to learn and a continuous improvement mindset
+Team Player
+Able to manage multiple and competing priorities
+Communication
+Customer focus
+Conflict resolution
+Self-motivated
+WORK ENVIRONMENT
+Work From Home until further notice, return to work location is Trillium Health Partners, Mississauga Hospital, 89 Queensway, Mississauga, ON., Canada (8:30am-4:30pm)
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+SSW Employees enjoy:
+Competitive compensation.
+Generous vacation entitlement.
+One of the top pension plans in Ontario (Healthcare of Ontario Pension Plan-HOOPP).
+Employee & Family Assistance Program (EFAP).
+Flexible environment.
+Family feel culture.
+Professional development opportunities.
+
+To apply, please email your resume to careers@ssw.ca indicating the position title and posting # in the subject line. As part of the initial recruitment process, selected candidates will be asked to complete a Job Description Feedback form. Please note that this does not guarantee advancement to the next step in the recruitment process. We thank all applicants for their interest in Shared Services West. Only qualified candidates selected for interviews will be contacted. If contacted for an interview, please inform us should any accommodation be required.",4.4,"Shared Services West
+4.4",Remote,"Burlington, Canada",51 to 200 employees,2001,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,Plexxus
+10,Business Intelligence Analyst,$64K-$106K (Glassdoor est.),"Reporting to the Director, Marketing Analytics, the Business Intelligence Analyst will serve as a subject matter expert on using business intelligence tools, visualization, and effectively communicating findings.
+
+Responsibilities
+Play a key role in orchestrating and automating the data analytics pipeline to make it more flexible while maintaining a high level of quality.
+Work with internal stakeholders to understand their business processes and related KPIs and build dashboards to help teams effectively track these measures.
+Develop intuitive yet scalable reports and dashboards to track performance and aid in planning and decision making.
+Help define metrics, build KPIs, and suggest improvements to the business.
+Analyze complex data sets, track and measure insights, build critical reports, and draw key insights.
+Own the design, development, and maintenance of ongoing metrics, reports, analyses, dashboards, etc. to drive key business decisions.
+Design/Develop data modules that convert underlying raw data to more readily usable formats for reporting, data mining etc.
+Optimize and improve efficiencies, quality, timeliness and sort out relevance of current routine reports and processes.
+Perform other duties and projects as assigned by leadership.
+Required Skills
+
+Requirements
+BA./B.S. degree is preferred or equivalent in Computer Science, MIS, or a comparable field of study is preferred.
+2+ years’ industry experience working with data.
+Experience working with a broad set of data integration technologies and databases.
+Proficient skills in standard concepts, best practices, and procedures in designing data.
+Strong ability to communicate the results of the analysis to non-technical and technical audiences.
+Able to work independently with confidence and little oversight.
+Comfortable with new technology and quick iterations.
+The candidate should be comfortable building interactive dashboards, data modeling, and using business intelligence tools (R, SQL, Power BI, Tableau, Interactive Dashboards, MS Excel, and MS Access) to extract, transform and load data (ETL) from multiple databases. Also, having the ability to connect databases for report automation purposes; as well as, strong analytical and statistical analysis skills to extract insights for prescriptive analyses.
+The ideal candidate should possess both technical and business knowledge and have the ability to organize and present complex/raw data in a way that tells a compelling story, provides actionable insights and drives business decisions.
+We are seeking a team player who excels at understanding the needs of the customer, understanding our data sets, is able to create dynamic reports for our business users, and develop novel insights into our rapidly growing business.
+The responsibilities are many, various, and not limited to those written in this document
+
+Required Experience
+
+Job Location
+Fort Lauderdale, US-FL",3.7,"Zimmerman Advertising
+3.7","Fort Lauderdale, FL","Fort Lauderdale, FL",501 to 1000 employees,1984,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+11,Sensory Scientist,$64K-$106K (Glassdoor est.),"A leading food production company in St. Louis is looking for a Sensory Scientist with food sensory research experience. In this role you will work on sensory development teams to develop, present, and report tests on new and improved products.
+This is a full time direct hire opportunity, and the company is offering an excellent salary package, outstanding benefits, and an onboarding signing bonus for those relocating to St. Louis.
+YOUR ROLE:
+Design and carry out food sensory tests to industry standards, by working with sensory staff and descriptive panelists.
+Develop and recommend new test methodologies to improve product understanding.
+Define sensory objectives and recommend testing strategies to support program objectives.
+Analyze sensory data and write comprehensive reports for project leaders detailing results and conclusions.
+Present test results and interpretation to project leaders.
+Assist in the development of program research objectives.
+Recommend panelist training where needed to ensure accuracy/precision.
+REQUIREMENTS:
+Bachelor’s Degree or higher in a scientific or engineering field.
+At least 4 years in Food Sensory research.
+Experience in sensory analysis of food materials, such as enzymes, stabilizer systems, hydrocolloids, probiotics, or meat analogs.
+Experience working with trained descriptive panels, using the Spectrum method and/or QDA methodology.
+Experience in applied statistics, method development, and product development.
+Experience in training and maintaining a sensory profiling panel and industry standard consumer testing methodologies, statistical analysis of sensory data and associated data from other sources.
+Knowledge of Sensory Science, with experience in Sensory Descriptive Profiling.
+Working knowledge of applied statistics.
+Excellent computers skills, especially MS Excel.",3.8,"NIC Infotek
+3.8","Saint Louis, MO","Tampa, FL",51 to 200 employees,2004,Company - Public,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+12,Staff Scientist,$64K-$106K (Glassdoor est.),"With annual sales of $15 billion, Ecolab (ECL) is the global leader in water, hygiene and energy technologies and services that protect people and vital resources. Our 49,000 associates help make the world cleaner, safer and healthier by delivering critical insights and innovative solutions to help our customers achieve clean water, safe food, abundant energy and healthy environments at nearly three million customer locations in more than 170 countries.
+
+Whats in it for you:
+The opportunity to develop and deliver innovative programs and best-in-class entomological support for the Global Pest Elimination RD&E team supporting our $800M+ business.
+The opportunity to work closely with a broad range of functional teams, internal and external suppliers, pest industry thought-leaders and customers to create innovative solutions that meet customer needs and drive continued growth of the Pest Elimination Division
+The opportunity to explore and research new ideas and technologies, responding to the current and future needs of our customers and emerging trends in urban and industrial entomology
+The opportunity to work directly with customers and Industry Associations to answer questions, solve problems, and be a thought-leader in the Pest Management Industry
+What you will do:
+Provide strong leadership and drive communication with entomology experts, cross divisional technology areas and global teams
+Capture, explore, experiment, and prioritize innovation ideas and concepts working in coordination with the Global RD&E, Marketing, Training, and Regulatory teams to bring the best ideas forward
+Work with our sales and operations teams to solve complex problems
+Develop and evaluate new test methods to assess new technologies in the lab and the field using experimental design, statistics, and data analysis techniques
+Identify customers needs or emerging market trends that impact Pest Elimination services and develop proactive solutions
+Develop relationships with suppliers and inventors to leverage innovation and differentiation
+Understand Ecolabs patent landscape, expand our position and protect it as needed
+.As a recognized expert in urban and industrial entomology, speak on behalf of Ecolab at customer and industry events.
+Maintain employee safety standards including 6S lab standards
+Minimum Qualifications:
+PhD in Entomology
+3+ years experience working in a R&D environment
+3+ years experience researching and introducing new innovations to the Pest Control Industry
+Experienced thought leader in the Pest Control Industry (could be demonstrated through membership in committees, presentations at conferences, published papers)
+Preferred Qualifications:
+Experience working with business and marketing teams to align new technologies/innovations to customer needs
+Experience finding and researching new technologies and assessing fit into the commercial pest market
+Recognized expert in urban entomology
+Track record of intellectual property, published work in recognized journal
+Working knowledge of robust product/experimental design/data analysis
+Experience working with commercial customers as an industry expert
+Experience providing technical support to a sales/service team
+Experience mentoring/managing others
+Excellent verbal and written communication skills
+Experience in project management and working with teams
+Our Commitment to Diversity and Inclusion
+
+At Ecolab, we believe the best teams are diverse and inclusive, and we are on a journey to create a workplace where every associate can grow and achieve their best. We are committed to fair and equal treatment of associates and applicants. We recruit, hire, promote, transfer and provide opportunities for advancement on the basis of individual qualifications and job performance. In all matters affecting employment, compensation, benefits, working conditions, and opportunities for advancement, we will not discriminate against any associate or applicant for employment because of race, religion, color, creed, national origin, citizenship status, sex, sexual orientation, gender identity and expressions, genetic information, marital status, age, disability, or status as a covered veteran.
+
+In addition, we are committed to furthering the principles of Equal Employment Opportunity (EEO) through Affirmative Action (AA). Our goal is to fully utilize minority, female, disabled and covered veteran individuals at all levels of the workforce. Ecolab is a place where you can grow your career, own your future and impact what matters.
+
+We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles Fair Chance Initiative for Hiring Ordinance and the San Francisco Fair Chance Ordinance.",3.6,"Ecolab
+3.6","Eagan, MN","Saint Paul, MN",10000+ employees,1923,Company - Public,Chemical Manufacturing,Manufacturing,$10+ billion (USD),-1
+13,Associate Enterprise Data Analyst,$64K-$106K (Glassdoor est.),"Remedi SeniorCare is looking for an energetic IT professional to become a part of the Enterprise Data Analytics department. This person will work on a small team that will work directly with the business at all levels in developing reports and maintaining an operational data store that is critical to the ever changing business needs.
+This person should be self-motivated, organized, and have strong communication skills. This role requires frequent interactions with the corporate executive team to design enhancements to our systems and create reports.
+
+Identify key reports providing metrics for business operations
+Identify key reports providing metrics for financial analysis
+Design, test, validate, and publish key business intelligence reports out of Qlik
+Design, test, validate, and publish reports out of Microsoft SSRS
+Modify SQL database conformance at the behest of the end users
+Meet with report consumers to ensure data is meeting their needs and where it is not, come up with solutions
+Document/save work via version control
+Develop written communication and documentation for end users
+Work independently with minimal supervision
+Any and all other duties assigned by Manager and/or Senior Management
+
+Strong technical proficiency with Microsoft SQL, SSRS, and related technologies
+Strong ability to optimize query performance and create efficiencies within SQL code
+Strong technical proficiency with Microsoft Excel (Microsoft Access is a plus)
+Strong analytical skills to understand and process complex data and then communicate to end users
+Ability to understand complex database design/structure with limited documentation
+Experience with data visualization tools like Qlik, Tableau, MicroStrategy, or Cognos.
+Experience and technical understanding of Softwriters FrameworkLTC is a plus
+Experience with the upkeep and management of a Microsoft SQL Database including writing to, querying, and monitoring performance
+Ability to work with high level executives and determine requirements for reporting with little oversight
+Ability to work in an AGILE environment with strict deadlines",3.3,"Remedi SeniorCare
+3.3","Towson, MD","Baltimore, MD",1001 to 5000 employees,2002,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1
+14,Research Scientist,$64K-$106K (Glassdoor est.),"***Please note: All hiring and recruitment at Spring Health is handled with a valid '@springhealth.com' email address only or from recruitment firms @oxeonpartners.com, @neptunepeople.com, @rivierapartners.com, or @swingtalent.com. If you receive a message from a sender whose domain is not @springhealth.com, please beware that those communications are not authorized or coming from Spring Health. ***
+
+Our mission: helping individuals and organizations thrive by eliminating every barrier to mental health.
+
+Spring Health is a comprehensive mental health benefit for employers. We help employees understand their mental health issues and connect with best-in-class providers to get the right treatment at the right time.
+
+We are an award-winning, passionate, and mission-driven team with the support of leaders in psychiatry, and backed by prominent VCs including Northzone, Rethink, RRE, and General Catalyst. From early detection to full recovery, Spring Health is the only clinically validated solution proven to be more effective than traditional mental healthcare. By combining the latest technology with vetted providers, we engage 1 in 3 employees, reduce recovery times, and reduce healthcare costs.
+
+We are looking for a Research Scientist to join our R&D team. You will be responsible for researching, designing, developing, and implementing data products throughout our organization. You will collaborate with a team of engineers, designers, product managers, social workers, psychologists, and scientists. You will use statistics and visualization tools to turn real-world clinical data into actionable insights for patients, providers, employers, and health plans.
+
+We are creating the future of mental healthcare: within your first year, you’ll discover something no human ever knew before about mental health.
+What you’ll do at Spring Health:
+Develop statistical frameworks for evaluating the quality of mental health clinicians
+Develop novel algorithmic approaches for matching patients with specific treatment providers to improve clinical outcomes
+Iterate and improve existing statistical approaches used to develop care plans for individual patients that maximise the likelihood of remission
+Develop and execute study designs for prospective comparative efficacy studies
+Create secure data deliverables across multiple contexts, such as: claims analyses/financial ROI, longitudinal treatment outcomes, provider quality, and risk stratification algorithms.
+What we expect from you:
+PhD in Applied Sciences (e.g. Psychology, Economics, Biology, Biochemistry) or another STEM-related field, or 5-6 years of equivalent data analysis experience
+Fluency in R
+Exceptional statistical ability (you know what zero-inflation is, you know the difference between bagging and boosting, you know when propensity matching doesn’t work — and you can explain all three to a product manager)
+Strong presentation skills — fluently tell a compelling clinical or business story with data
+Strong written communication skills — quickly compose client-facing communications or publications for peer-review
+Experience with Git, Python, SQL, parallel/distributed computing, cloud computing, and other data science toolkits.
+Initiative and ability to self-direct projects and solve unconventional problems
+Proximity to NYC: minimum 2 days per week in our NY HQ, max 3 days remote
+What we’d love to see:
+Publications in high-impact (IF>10) peer-reviewed outlets (or experience in creating and selling new product lines from scratch)
+Demonstrated passion for, and understanding of, mental illness and broader U.S. healthcare system
+Experience using data visualization techniques to present key findings
+Ability to quickly and independently pick up concepts and skills
+Experience working cross-functionally with operations, product, engineering, and design teams
+Why you’ll love working at Spring Health:
+Competitive compensation plan, including equity in the company: we want you to own a piece of what you’re building.
+Comprehensive benefits: we offer 401k, health, dental and vision benefits as well as free mental healthcare!
+World-leading science: we’re shaping the future of mental healthcare, and are at the forefront of peer-reviewed science. You’ll be the first human to discover something about how to treat mental illness.
+Flexible vacation plan: our open vacation-policy allows you to take the time off you need when you need it.
+Great people: make an impact on something that truly helps people alongside an incredible team.
+We care about diversity: diversity allows us to build an excellent patient experience. We are an equal opportunity employer and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+We value: humility, entrepreneurship, passion for mental health, honesty and candor/directness
+If you're interested in the role, please submit your CV/Resume via email to careers@springhealth.com, along with one code sample and one writing sample.
+
+The code samples can be in any language, and the writing sample should either be 250 words, or include a 250 word abstract. Communication skills are really important to us, and we are particularly looking for a simple, direct writing style and the ability to articulate a question and research methodology clearly.",3.6,"Spring Health
+3.6","New York, NY","New York, NY",1 to 50 employees,2016,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1
+15,Senior Data Scientist,$64K-$106K (Glassdoor est.),"About Us
+
+At GutCheck, we pioneered agile market research to provide our clients with actionable insights at the speed of their business. As the marketplace rapidly evolves, we're evolving with it. By combining qualitative, quantitative, and behavioral methodologies, our team of full-service research experts synthesizes insights to help clients make more confident business decisions -- connecting them with their target consumers earlier and more often in the development process.
+
+What Makes Our Approach Different
+
+We create heroes out of our clients by providing them with contextualized insights to more efficiently and effectively connect with their target audiences. Enabled by technology and automation, we are dedicated partners who take a human-first approach to delivering powerful insights. Today, we are bringing agile to strategy: enabling brands to gather robust foundational insights in an agile, iterative way to inform key business within the demands of today's innovation timelines.
+
+Here's where you come in:
+
+As our Senior Data Scientist, you will be the primary contributor that will operationalize predictive models built with machine learning and advanced analytic technologies. GutCheck owns years of structured and unstructured data. We've started to identify patterns in our world-class market research using machine learning technologies such as TensorFlow. You will help us by providing expertise on mathematical concepts for the broader cross-functional analytics team and inspire the adoption of advanced analytics and data science across the entire breadth of our organization.
+
+You will work closely with our talented and agile Product and Engineering teams to craft scalable, well-designed solutions that address the technical and architectural challenges inherent to making sense of our data. We have a focus on quality, automation, and innovation. We encourage our Engineers to think creatively and flexibly when choosing solutions, tools, and techniques. Our team offers an environment where trust and innovation are encouraged, egos aren't accepted, and collaboration is core to our DNA.
+
+You will advocate, evangelize and build data-fueled products that help our internal and external customers gain deeper insights into direct, targeted consumer feedback. This data can and will be coupled with third-party data sources to help our clients be heroes by making well informed business decisions. You'll help research and choose which data sources will provide unique and compelling insights, and then you'll dig in and become an expert on that data. You will provide insight into leading analytic practices, design and lead iterative learning and development cycles, and ultimately produce new and creative analytic solutions that will become part of our core deliverables.
+
+For more information on the company and the GutCheck team, please go to www.gutcheckit.com
+
+This job description is not a complete list of your qualifications or position roles. GutCheck is proud to be an equal opportunity employer. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status.",3.8,"GutCheck
+3.8","Denver, CO","Denver, CO",51 to 200 employees,2009,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),"Nielsen, Zappi, SurveyMonkey"
+16,Business Intelligence Analyst,$64K-$106K (Glassdoor est.),"Business Intelligence Analyst
+Full Time
+Remote US-based Employee
+Summary:
+•The Business Intelligence Analyst will have a vital role in the dissemination of intelligence derived from data throughout the Radius Global Solutions organization. The person that will thrive in this role has strong data sleuth/analysis skills, experience with business intelligence tools, a thirst for learning about collection analytics, and a knack for deriving meaningful value from datasets.
+The primary responsibilities for this role include:
+•Analysis of collections system data to support end users
+•Development of new reports
+•Developing new data aggregation processes
+•Prototyping new feeds for the data warehouse and client report creation.
+The successful candidate should have the following skills / experience:
+•2+ years SQL programming and stored procedures (SQL Server, Oracle, related)
+•2+ years programming in at least another analytic focused language such as python or R
+•2+ years Report Visualization (Power BI, Tableau, related)
+•2+ years analyzing data and creating reports
+•Strong Excel experience
+•Bachelor’s degree with a data / technical emphasis
+Nice to have Skills/Experience:
+•Programming language C#, java, other
+•Statistical analysis/modeling
+•Financial Services/Collections industry experience and data knowledge
+EEO Disabled/Veteran
+Job Type: Full-time",3.2,"Radius Global Solutions
+3.2","Ambler, PA","Ambler, PA",1001 to 5000 employees,2013,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+17,Sr Data Engineer (Sr BI Developer),$64K-$106K (Glassdoor est.),"Description/Responsibilities
+
+
+Responsible for the ongoing support of existing Data management solutions, as well as development of new functionality to include sophisticated data management solutions, to enable colleagues to support tactical and strategic decision making. Extracts, models, transforms, and loads data into databases required for Analytics and Reporting. Collaborates with EIS to deliver production ready data assets in support of DM delivery requirements.
+Understands complex business requirements and translates into technical specifications.
+Uses highest level of subject matter expertise to decide on data modeling, data sourcing, data quality, and DM delivery solutions.
+Performs complex data analysis and system profiling to create clear data definitions.
+Incorporates complex new data requirements and/or new applications into the warehouse environments.
+Reengineer existing system and automate as needed.
+Mentor or coach junior levels of developers.
+Qualifications
+Bachelor’s degree or an equivalent combination of education and related work experience
+5 years of work experience as ETL/CUBE Developer
+Work experience with multiple database platforms and DM delivery solutions
+5 years of experience with ETL, data marts and cubes, implementing and supporting production environments.
+5 years of experience designing, building and implementing data warehouse solutions with Microsoft technologies including SQL Server, SSIS, SSAS skill with MDX and DAX skill with tabular cube is a must.
+Experience delivering DM solutions with an Agile DM delivery methodology
+Experience in working with Healthcare data preferred
+Preferred Qualifications:
+Experience implementing and delivering solutions with Big Data platforms like Hadoop
+Ability to communicate, present and interact comfortably with senior leadership
+Demonstrated proficiency implementing self-service solutions to empower an organization to generate valuable actionable insights
+Strong team player as well as an individual contributor as situation calls for.
+Ability to understand information quickly, derive insight, synthesize information clearly and concisely, and devise solutions
+Inclination to take initiative, set priorities, take ownership of assigned projects and initiatives, drive for results, and collaborate to achieve greatest value
+Strong relationship-building and interpersonal skills
+Demonstrated self-confidence, honesty and integrity
+Ability to travel as business needs require (expected
+5071
+
+About Tivity Health
+
+Tivity Health®, Inc. (tivityhealth.com) is a leading provider of health improvement, nutrition, fitness and social engagement solutions at scale to improve clinical outcomes, reduce healthcare costs and create opportunities to feel better, work better and live better. With decades of clinical and operational expertise, the company touches millions of consumers through its integrated portfolio of brands and works directly with hundreds of healthcare practitioners and many of the nation’s largest payers and employers. Tens of millions of Americans are currently eligible for Tivity Health’s SilverSneakers®, Prime® Fitness, WholeHealth Living™ and flip50™ programs and millions of people have lost weight with Nutrisystem®, South Beach Diet® and DNA BodyBlueprint™. As part of its commitment to tackling social isolation and loneliness, in 2017, Tivity Health launched a rural aging initiative to address challenges unique to older adults in rural communities.
+
+Tivity Health is an equal employment opportunity employer and is committed to a proactive program of diversity development. Tivity Health will continue to recruit, hire, train, and promote into all job levels without regard to race, religion, gender, marital status, familial status, national origin, age, mental or physical disability, sexual orientation, gender identity, source of income, or veteran status.",3.2,"Tivity Health
+3.2","Chandler, AZ","Franklin, TN",501 to 1000 employees,1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1
+18,Data Scientist-Human Resources,$64K-$106K (Glassdoor est.),"Lexington, MA, US
+
+#job-location.job-location-inline {
+display: inline;
+}
+
+Company:
+MIT Lincoln Laboratory
+Job Summary
+Responsible for the collection, synthesis, and analysis of employee data to meet organizational objectives. Gains insight into key Human Resources related business opportunities and deliverables by applying statistical analysis techniques to examine structured and unstructured data from multiple disparate sources. Interprets results from multiple sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining. Uses advanced mathematical, statistical, querying, and reporting methods to develop solutions. Develops information tools, algorithms, dashboards, and queries to monitor and improve business performance.
+
+Successful candidates will have demonstrated:
+Strong interpersonal, team building, communication and presentation skills to effectively communicate and collaborate with all levels of the organization.
+An ability to maintain strict confidentiality as well as business and professional ethics.
+Strong organizational skills, attention to detail and ability to handle multiple tasks.
+Flexibility and ability to work effectively and meet deadlines in a dynamic, fast-paced environment.
+Ability to perform successfully in a data driven, service-oriented environment and to interpret rules and guidelines flexibly to enhance the business values and the diverse culture.
+Requirements
+BS required, MS preferred in related disciplines such as Computer Science, Statistics, and/or Mathematics with 5-8 years of relevant experience.
+Experience working with sensitive data, predictive analytics and behavioral science based information preferred.
+Must have demonstrated experience with some or all of the following: Data and Quantitative Analysis / Decision Analytics / Predictive Modeling / Data-Driven Personalization / KPI Dashboards and BPI Plans / Big Data Queries and Interpretation / Data Mining and Visualization Tools / Machine Learning Algorithms / Business Intelligence (BI) / Research, Reports and Forecasts.
+In addition, must have experience with some or all of the following: Data and Computer Science proficiency: SPSS, SAS, R, Rstats, Python, Apache Spark, Microsoft PowerBI, Matlab, HIVE, Pig, data warehouse (DW, DWH), Hadoop, Google Analytics, data mart projects, data management, machine learning, predictive analytics, prescriptive analytics, streaming analytics, SQL, Business Objects (Crystal Reports, Dashboards, WEBI), SAP BW, SAP HANA, SAP Lumera, and many and/or other products is a plus.
+
+For Benefits Information, click http://hrweb.mit.edu/benefits
+
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.
+
+Requisition ID: 28943
+
+Nearest Major Market: Boston
+Job Segment:
+Database, Scientific, Scientist, ERP, Developer, Engineering, Technology, Science",3.8,"MIT Lincoln Laboratory
+3.8","Lexington, MA","Lexington, MA",1001 to 5000 employees,1951,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,-1
+19,Data Scientist,$64K-$106K (Glassdoor est.),"The Senior Data Scientist will build and improve analytic pipelines to consolidate multiple data sources, perform analytic processing, and produce actionable business information (e.g., top-10 lists, pattern-matches, exceptions, or lists of #39;needles in the haystack#39;). S/he will apply hands-on development skills and experience as an expert in analytics, data science, pattern recognition, and",3.6,"Powertek
+3.6","Washington, DC","Rockville, MD",51 to 200 employees,2001,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1
