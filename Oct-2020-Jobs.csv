@@ -1,0 +1,806 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,Staff Data Scientist I,-1,"Data Scientist – Machine Learning & Real-Time Decision Processing (Remote, US)
+
+Valassis is a leader in online advertising technology. We process over 12 trillion calculations daily to analyze and decide on more than 110 billion digital ad requests. As a Data Scientist at Valassis your work is central to keeping us at the forefront of the AdTech industry.
+
+We are seeking data experts who are passionate about using cutting edge technology and data science methods to solve unique and complex problems. The ideal candidate is innately curious about how data can be used to tell a story and inform decisions. You have honed your skills through a combination of education, work experience, and hobbies. You are excited about the complexity and challenges of creating intelligent, high performance systems while working with a highly experienced and driven data science team.
+
+If this describes you, we are interested. You can be an integral part of a cross-disciplinary team working on highly visible projects that improve performance and grow the intelligence in our product suite. Our day to day work is performed in a progressive, high-tech workspace where we focus on a friendly, collaborative and fulfilling environment.
+
+On any given day you’ll be…
+Using geo location data to track foot traffic, commercial visitation and next most likely visit to understand consumer physical behavior.
+Using online behavior data to determine the primary interest categories of consumers and the web properties they visit.
+Implementing a predictive model to determine whether a person is likely to visit a car dealership based on the advertising signals they’ve received.
+Monitoring & improving a system that deploys and refits 10’s of thousands of models daily.
+Developing algorithms to optimize the setting of every lever in a high throughput real-time decision system.
+Analyzing data to better understand how a neighborhood’s consumption of web pages correlates with visits to a local big box store.
+Finding the handful of outliers in billions of transactions.
+Deriving a set of new features that will help better understand the interplay between geography and audience features to improve model performance.
+Building new products with applied AI and bring them to market.
+Participating in planning, roadmap, and architecture discussions to help evolve our AI processes to improve revenue-generating products.
+Our ideal candidate will likely have…
+The professional experience and desire to perform responsibilities similar to those listed above
+An advanced degree in a relevant, quantitative field or equivalent experience working with Big Data and Spark in a professional setting
+Ability to grow and ultimately mentor team members of varying experience levels and competencies through data science, product and software development life cycles
+WHO WE ARE
+Valassis is a leading digital marketing intelligence company, providing a best-in-class data management platform and online and offline targeting capabilities that fuel superior display advertising and media offerings. Through proprietary technology and the Valassis Digital Consumer Graph™, we power the lifecycle of marketing campaigns – from planning to activation and measurement. In fact, 19 of 20 leading brands work with Valassis to drive better campaign performance.
+
+WHAT'S IN IT FOR YOU?
+Valassis has a generous total rewards benefits package that includes medical, dental and vision coverage, 401k and PTO allowance. A wide variety of additional benefits like life insurance, employee assistance and pet insurance are also available; not to mention smart and friendly coworkers!
+
+Valassis is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. Applicants who have disabilities may request that accommodations be made in order to complete the selection process.
+
+EEO is the law. To review your rights under Equal Employment Opportunity please visit: www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf.
+
+#LI-JM1",3.4,"Valassis
+3.4","Morrisville, NC",-1,1001 to 5000 Employees,1970,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1
+1,Research Data Scientist,-1,"IAI is looking for a talented research scientist to contribute to research and development efforts in machine learning, graph theory, and scientific software development. The candidate will incorporate novel ideas and improve the state of the art on advanced projects related to processing of large networks, analyzing data in high dimensions and implementing high performance computing software. Additionally, the candidate will develop a portfolio of related research by extending existing work and proposing new methods with novel application domains.
+
+You are highly encouraged to apply if you enjoy working with data and algorithms, passionate about understanding how things work, want to solve complex problems and strive to stay current on the technology and literature in areas of high performance computing, network analysis and machine learning.
+
+JOB DUTIES
+
+Design and develop scalable machine learning and network analytic algorithms
+Evaluate performance of a variety of machine learning and network analytic algorithms
+Debug and solve problems in complex environments
+Explore use of novel methods for compression, dimensionality reduction and summarization
+Communicate findings effectively in the form of briefings and technical reports
+Formulate research ideas/hypotheses to solve new problems
+
+DESIRED SKILLS
+
+Algorithm development experience in Python, C/C++ and/or Java
+Development of machine learning and/or graph-based algorithms (e.g., scikit-learn, networkx, mlpack, weka)
+Familiar with high performance and big data computing technology (e.g., MPI, OpenMP, OpenACC, CUDA, opencl, mapreduce, hadoop, spark, BSP)
+Exposure to graph traversal languages and graph databases (e.g., Apache Tinkerpop, neo4j, JanusGraph)
+Familiar with word embedding methods (e.g., word2vec, GloVe, doc2vec)
+Comfortable working on linux systems
+
+EDUCATION
+
+A Masters degree or Ph.D. in Computer Science, Engineering, Mathematics, Physics or related field is required.
+
+About IAI
+
+IAI is a technology innovation company specializing in providing advanced technology solutions and R&D services to federal agencies and corporations. IAI leverages agile R&D processes, a multi-disciplinary collaborative environment, and its substantial intellectual property portfolio to excel in developing concepts into market-focused products and customer-driven solutions. IAI’s core R&D areas include: AI & Advanced Computing; Autonomy & Robotics; Healthcare Research Technologies; Modeling, Simulation & Visualization; and Networks & Cyber Security; and Radar, Communications & Sensors. For more information about IAI please visit www.i-a-i.com.
+
+US Citizenship or Permanent Residency required
+
+All qualified applicants will receive consideration for employment without regard to race,
+
+color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+Requisition ID:",3.6,"Intelligent Automation
+3.6","Rockville, MD",-1,51 to 200 Employees,1987,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$25 to $50 million (USD),-1
+2,Data Analyst,-1,"Rational is growing, and we need amazing talent to join our team. If you have an entrepreneurial attitude with a deep spirit of service and killer subject expertise, we want to talk to you. We are always looking for the next great consultant to raise the bar and push Rational to be better than we were yesterday. Staying hungry, curious, and looking forward to what’s next is part of our DNA.
+
+This Data Analyst will be part of Rational's Technology & Data Practice and supporting one of our large biotech projects. This individual will provide strategic and tactical consultation, leadership in delivering solutions, and oversight of processes and systems.  The position requires solid technical foundation, domain knowledge, as well as strong verbal and written communication skills with a proven ability to clearly communicate technical information to a non-technical audience.
+
+This is a full time position within Rational's Technology Practice. This position is not available for Visa sponsorship or C2C work.
+
+What you will do:
+Serve as the Business Analyst subject matter expert supporting, but not limited to Commercial portfolio
+Network with a new and evolving IT environment, business team, and vendors to foster strong relationships and build partnerships
+Understand strategy and how it translates to executable programs, projects, and efforts that align with strategic goals while taking the environmental constraints and opportunities into account
+Collaborate with cross-functional professionals to deliver high-quality and innovative solutions that meet the business needs and create new opportunities
+Provide analytic support of various levels of complexity including large, multi-year, cross-functional efforts with internal and external influencing factors
+Negotiate conflicts and complex issues to an expeditious and satisfactory resolution
+What you will bring:
+3+ years of exposure to the orchestrating technology solutions for technical and/or Biotechnology or Pharmaceutical organizations
+3+ years of experience in the Business Analysis or equivalent role with solution delivery and process improvement supporting cross-functional implementation of IT solutions in the Biotechnology or Pharmaceutical industry
+3+ years of experience in organization financials, financial reporting
+Familiarity with applications used in the business area such as Salesforce and Veeva
+Working experience in SQL Server and Snowflake (preferred, but not required)
+Proven knowledge of IT solutions and application management through various product cycles and evolving work environments
+Demonstrated technical understanding of application architecture to include application servers, web servers, configuration files, relational databases, and reporting applications
+Ability to proactively plan, organize, deliver with limited oversight, prioritize, and quickly adapt to changing situations
+Excellent communication skills, including the ability to interface and influence internal and external partners at multiple organization levels
+Strong interpersonal and negotiation skills, with a high degree of self-motivation and ability to work independently
+Proficient in essential tools such as Power BI, Smartsheets, PowerPoint, Visio, etc.
+Who you are:
+Data Lover. You know your numbers and value the metrics behind the buyer story.
+Collaborative to the Core. Demonstrated ability to work in a team environment, as a leader and member.
+Well-rounded Professional. You have amazing communication and organizational skills along with high EQ.
+Proactive. You are always thinking ahead about what is best for the Client.
+Adaptable. Change happens at lightning speed; you are flexible, enjoy challenge, and get behind new ideas
+Rational is a customer experience (CX) solutions firm that pairs the capabilities of a strategic consultancy with the creativity of a full-service digital agency. We design and activate compelling experiences that create strong connections between people and brands. We put humans at the center of business and partner with our clients to deliver meaningful experiences that help their customers while driving business success. Customer satisfaction at every level is our ultimate metric, and it's what drives our mindset, skillset, and company culture.
+
+Incredible people are our non-negotiable. Our experienced team of consultants spans the globe. We love what we do, and who we do it with – let’s begin our next chapter together.
+
+Rational is committed to ensuring all candidates have an equal opportunity to be considered for employment. Please let us know if you need any reasonable accommodation to participate in the job application or interview process.",2.7,"Rational
+2.7","Redmond, WA",-1,201 to 500 Employees,2009,Company - Public,Consulting,Business Services,Unknown / Non-Applicable,-1
+3,Scientist Virtual Hiring Event,-1,"AllSTEM Connections Hiring Event!
+
+Event Details
+Date: Friday, October 23, 2020
+
+What We're Hiring For
+
+Scientist
+
+Intake Details:
+
+Requirements
+
+Bachelors in Biology
+
+Lab experience in Cell Culture
+
+Experience working with BSL-2 organism
+
+Technical requirements
+
+The interview will take place on Indeed's virtual interviewing platform. After RSVP, you will find a link in your email that will lead you directly to the video interview lobby during the event. Try to find a quiet place with good lighting and a stable internet connection.
+
+What to bring to this event
+
+Resume
+
+References
+
+What to wear
+
+Dress code is Casual (come as you are, but please be presentable).
+
+About AllSTEM Connections
+
+AllSTEM Connections is a professional staffing agency. We work nationally and connect with STEM professionals to find the right next career move!
+
+CREATING POWERFUL CONNECTIONS! Connecting is for everyone…. AllSTEM Connections aligns your best personal career strategies with the unique needs of our customers. We lead the talent revolution through inspiring and designing the models of how work is accomplished now and how it evolves into the future.
+
+What is a Virtual Hiring Event?
+Virtual hiring events are a great way for employers and jobseekers to connect, even if they aren't in the same physical location. Hiring is a human process, and they would like to talk with you online (either through chat, on the phone, or video) to see if you’re a fit!
+
+AllSTEM Connections is looking for a Scientist to work in West Point, PA. This is a contract opportunity with possibility of direct hire with benefits.
+
+Responsibilities:
+
+Prepare laboratory reagents, solutions and culture media
+Perform lab-scale upstream processing of vaccine products and process intermediates (including Biosafety Level-2 virus)
+Setup process equipment for lab-scale experiments
+Perform in-process monitoring assays
+Analyze, collate, track, and report data back to client staff members
+Maintain records and test results following good laboratory practices (GLP)",5.0,"AllSTEM Connections
+5.0","Lansdale, PA",-1,Unknown,-1,Unknown,-1,-1,Less than $1 million (USD),-1
+4,Business Intelligence Analyst,-1,"Work with the business to determine and document reporting and analytic requirements, create mock-ups, and develop reports, dashboards and analytics that help drive company objectives.
+Develop and maintain a set of Metrics and KPIs to drive efficiency and measure productivity within the Sales and Operations teams
+Tell stories with data and propose analytical solutions instilling confidence to leaders making operational and strategic business decisions
+Develop data and reporting requirements documentation in line with data systems framework including business requirements documentation, report mock-ups, data mapping and test plans
+Manage expectations by communicating project plans, features, and statuses to business stakeholders
+Build strong relationships within the business and support functions to understand the business needs
+Construct reporting utilizing Excel, Cognos, and NetSuite to drive insight for sales and operational leadership
+Collaborate and knowledge share to ensure single source of truth for all data
+Perform ongoing assessment of analytics tools and dashboards relative to their usability, efficacy and adoption with their respective audiences
+Synthesize data to provide executives with actionable insights as input to corporate, product and sales strategy
+Plan and facilitate requirements gathering sessions, meetings, and presentations
+Bachelor's degree
+4+ years prior Strategy, Consulting, Sales/Marketing Operations or Medical Products experience
+Excellent communication skills, both written and verbal
+Understands internal/external communication channels and escalates appropriately
+Comfortable with ambiguity and able to work through it to get the right things done
+Strong initiative; able to self-manage
+Proficient in the following: Excel and SQL
+Familiar with at least one of the following: Netsuite, Cognos, Prophix
+While this position can be done remotely, candidate will be required to be on-site at the Clearwater location for initial 90 days of employment. *
+Job Type: Full-time
+
+Pay: $60,000.00 - $65,000.00 per year
+
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Disability insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+COVID-19 considerations:
+Practicing social distancing, masks optional.
+
+Experience:
+Strategy; Sales/Marketing Operations: 4 years (Required)
+Education:
+Bachelor's (Preferred)
+Location:
+Clearwater, FL (Required)
+Language:
+English (Required)
+Work authorization:
+United States (Required)
+Shifts:
+Morning (Required)
+Working Days:
+Monday (Required)
+Tuesday (Required)
+Wednesday (Required)
+Thursday (Required)
+Friday (Required)
+Work Location:
+One location
+This Job Is Ideal for Someone Who Is:
+Dependable -- more reliable than spontaneous
+People-oriented -- enjoys interacting with people and working on group projects
+Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+Detail-oriented -- would rather focus on the details of work than the bigger picture
+Company's website:
+mercurymed.com
+Benefit Conditions:
+Waiting period may apply
+Only full-time employees eligible
+Work Remotely:
+Yes",3.4,"Mercury Medical
+3.4","Clearwater, FL",-1,51 to 200 Employees,1963,Company - Private,Health Care Products Manufacturing,Manufacturing,$25 to $50 million (USD),-1
+5,Scientist,-1,"Responsibilities of the Scientist:
+
+Will work with mouse models and perform molecular biology techniques.
+Directs and implements sub-projects within overall project.
+Manages team of junior technicians to achieve project goals.
+Plans, schedules, and coordinates detailed phases of projects.
+Collects, analyzes, and interprets data.
+Identifies and resolves technological and methodical problems, troubleshooting when necessary.
+Performs experiments to further project goals.
+Summarizes data, presenting data weekly at lab meeting.
+
+Requirements of the Scientist:
+
+PhD in Biology, Molecular Biology, or related area.
+Must have experience with immunology and mouse models.
+Superior ability to make independent judgments of experimental priorities.",4.8,"Commonwealth Sciences
+4.8","Boston, MA",-1,1 to 50 Employees,2004,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),-1
+6,Data Analyst,-1,"DEPARTMENT: Analytics
+POSITION SUMMARY
+NewDay USA is a leading nationwide lender focusing on providing financial solutions to American families. Our analytics team is currently seeking a data analyst to join our team on a full-time basis.
+POSITION DUTIES AND RESPONSIBILITIES
+Analyzing business data
+Summarizing different analysis results and presenting findings
+Conducting business studies on demand
+Managing existing reporting services as well as creating and automating ad-hoc reports
+Operating enterprise-specific software
+Troubleshooting regular dataflow functions
+Running and optimizing day-to-day business functions
+Managing projects and business accounts
+POSITION QUALIFICATIONS
+Education/Certification:
+Bachelor’s Degree in mathematics, statistics, or related fields
+Experience:
+Strong analytical, business and problem solving skills
+Experience with MS Office products
+Expertise in MS Excel
+Attention to detail
+Efficient organizational skills and demonstrated follow-through on deliverables
+Strong interpersonal, verbal and written communication skills
+Prior operations experience within a financial firm is a plus
+Experience with MS SQL Server database and/or the SQL language is a plus
+
+Our Values:
+Ship, Shipmate, Self
+Training for a Career
+World-Class Service
+Providing Opportunity
+Integrity
+Resilience
+Giving Back
+Our Diversity:
+We aim to foster a culture where individuals of all backgrounds feel confident in bringing their whole selves to work, feel included and their talents are nurtured, empowering them to contribute fully to our vision and goals. It is the policy of NewDay USA to ensure equal employment opportunity without discrimination on the basis of race, color, creed, religion, national origin, alienage or citizenship status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, veteran status, genetic information, or any other basis protected by law.
+Benefits:
+Health Insurance
+401K
+Competitive Salary
+Uncapped Bonuses
+Profit Sharing",3.9,"NewDay USA
+3.9","Fulton, MD",-1,501 to 1000 Employees,1999,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+7,Data Scientist Risk Analyst,-1,"Overview:
+
+Oasis Systems has an exciting opportunity for a Data Analyst to support the Commodity Futures Trading Commission (CFTC) in Washington, DC.
+The successful candidate shall provide support in data analytics, Python, data visualization, dashboards and use of data analytic tools. Activities which the contractor may be tasked to perform include gathering requirements from stakeholders, conducting financial data analysis and risk analysis in a Big Data environment, and creating interactive dashboard reports and documentations.
+
+LOCATION: Washington, DC
+
+JOB STATUS: Full-Time
+
+REQUIRED QUALIFICATIONS (Education, Certifications, Experience, Skills)
+
+SECURITY CLEARANCE: Ability to pass a Special Agreement Check (SAC) and a National Agency Check and Inquires (NACI) Background Investigation
+
+EDUCATION: Bachelor’s degree
+
+CERTIFICATIONS AND TOOLS: Certifications in Data Analytics program languages such as Python and R preferred but not required. Experience with Global Risk product a plus, but not required.
+
+EXPERIENCE LEVEL: A minimum of 8 years of relevant experience in the data analysis field and a minimum of 5 years of industrial analytics experience using Python (recent use during the past 3 years) as well as extensive experience with SQL.
+Specific experience with financial or market risk analysis is a Must.
+
+DESCRIPTION: Functionally, the candidate will be responsible for:
+
+Work closely with the customer to gather and document project requirements.
+Perform data manipulation and advanced data analysis including financial modeling, data mining, and Machine Learning techniques.
+Perform risk analysis which may include a broad range of financial risk measures, (such as Value at Risk (VaR): computation and evaluation, VaR tracking (VaR evolution over time), Incremental (and marginal) VaR calculation for individual asset classes /positions, conditional VaR, stress testing).
+Test each project thoroughly before presenting it to the task order project manager for quality control. Document test results as part of the project closeout documentation.
+Create documentation as required under the PMLC and the Configuration Change Board (CCB) in order to move projects to the production environment.
+Coordinate with internal and external organizations providing data to understand and resolve improper data formatting and other integration issues.
+Participate in facilitated meetings between stakeholders at CFTC which may include regular status meetings, user acceptance testing meetings and ad hoc development discussions.
+Data analysis tasks may be varied. They will include complex data requests that require data mining, extraction, and query optimization services from Divisions throughout the CFTC.
+Assist business users, economists, statisticians, and others, as required, to support effective use of analytic techniques and CFTC-approved tools to meet the customers various analytic needs.
+
+Who We Are
+
+Oasis Systems is a premier provider of customer-driven, cost-effective and quality Engineering Services; Enterprise Systems and Applications; Human Factors Engineering; Information Technology and Cyber Security; Professional Services; and Specialized Engineering Solutions to the Department of Defense, FAA, NRC and other federal agencies.
+
+We strive to be an exciting and welcoming company that attracts, develops, motivates and retains the most talented, skilled and dedicated people in the industry; where they are encouraged to achieve personal excellence, purpose, and their full potential and career aspirations; while supporting mission-critical national security technologies and programs.
+
+Oasis Systems is an equal opportunity employer and does not discriminate in hiring or employment on the basis of any legally protected characteristic including, but not limited to, race, color, religion, national origin, marital status, gender, sexual orientation, ancestry, age, medical condition, military veteran status or on the basis of physical handicap which, with reasonable accommodation, render the application to satisfactorily perform the job available.",3.8,"Oasis Systems LLC
+3.8","Washington, DC",-1,1001 to 5000 Employees,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+8,Data Analyst,-1,"We are OANDA:
+
+We are an award-winning global financial services company offering leading currency solutions and online trading platforms for both retail and corporate clients. Our vision is to transform how our clients can meet all of their online trading and currency needs with innovative and award-winning solutions.
+
+Backed by one of the world's largest private equity firms, with significant ambitions to grow the business on the global stage, we are looking for highly motivated, passionate individuals who want to make a mark in a dynamic, start-up feel environment.
+
+About you:
+Do you want to work with great people in an energetic and open company culture?
+Do you want to make your mark with an Agile team that is re-shaping the future of data and analytics at OANDA?
+Do you enjoy collaborating across different disciplines within a company to drive towards a common goal?
+Are you passionate about finding efficient solutions to technical problems?
+Are you curious about what makes a company succeed?
+Is data not just the answer, but the means to asking more questions to you?
+If so, we want to hear from you!
+
+In this role you will:
+Partner with a cross-section of the company including Strategy, Product, Customer Service, Marketing, Sales, Trading, Finance and Compliance, to answer high-level business questions and gain insights from the data you help to collect and manage
+Perform data analysis and modeling, create reporting and visualizations and educate the company on your findings
+Influence the company's strategic directions by driving data driven decision making across the organisation
+Identify and apply statistical and advanced analytical methods with customer teams enabling action-orientated results
+Participate in planning sessions with key stakeholders, working with them to understand the business need and then developing actionable insights
+Create rapid prototypes with team members leveraging Big Data, traditional database technologies and alternative solutions
+Our ideal candidate will:
+Be passionate about engineering an efficient solution to a technical problem
+Be able to translate complicated business requests into actionable and understandable data insights
+Have a Bachelor's/Master's degree in Mathematics, Economics, Finance, Computer Science or related subjects
+Have significant experience working in both SQL and Python
+Have experience working within Finance or FinTech industries
+Have worked in, and with, Google Cloud/BigQuery/BigData or other cloud technology as an asset
+Have worked with enterprise business intelligences platforms such as Tableau, Domo or MicroStrategy, with Domo as an asset
+Our Team:
+Is a cross-functional Data team made up of data scientists, data and software architects, software engineers and data analysts spanning the globe
+Has ownership over data company-wide, from analytics to global business reporting, compliance reportings and any other data inquiries
+Manages the entire data lifecycle from extraction to visualization
+Works in the Google Cloud Platform, SQL, Python, Java, C++ and are always prototyping new technologies
+We Value Our People:
+
+OANDA Global Corporation is a diverse and global team with offices around the world. We value the unique skills and experiences each individual brings to OANDA. We are committed to creating and sustaining a collegial work environment in which all individuals are treated with dignity and respect and one which reflects the diversity of the community in which we operate. We provide an inclusive and accessible environment for everyone.",2.5,"OANDA
+2.5",United States,-1,201 to 500 Employees,1994,Company - Private,Brokerage Services,Finance,Unknown / Non-Applicable,-1
+9,RESEARCH SCIENTIST,-1,"InfoBeyond is seeking outstanding researchers to fill out our two positions of Research Scientist. By working together, we strive to develop innovative solutions that can create a positive impact on the world. We provide especially attractive benefits for researchers who are highly-skilled in creativity. You are expected to have some of the following background (not necessary all):
+
+Education Requirements:
+Doctoral Degree (Ph.D.) in Computer Science, Computer Engineering, Electronic Engineering, or related fields
+Research on Blockchain, Power Grids, AI/ML, Computer Vision, Cybersecurity, or Radar is welcome (Not Required to Meet All)
+High quality of publications in conference and Journals
+Math background on Optimization or Statistics is highly desirable (Not Required to Meet All)
+Other Requirements:
+Proposal writing experience or software development
+Demonstrated passion and creativity on state-of-art projects, scientific publications, etc. (Please include all your publications in CV)
+U.S. Permanent resident or U.S citizenship is a plus
+Exceptional writing skill and excellence in communication
+C/C++ or network-based program/simulation experience on industry or research projects
+Compensation*:
+
+Start with $75,000.00 to $81,000.00 per year.
+
+Job Location: Louisville, KY
+Working conditions: 40+ hours per week.
+
+Submit resume with complete references to: Bin Xie, InfoBeyond Technology, LLC, 320 Whittington Parkway, Suite 117, Louisville, KY 40222. An EOE.
+
+Please contact us for any questions.
+
+Job Type: Full-time
+
+Pay: $75,000.00 - $81,000.00 per year
+
+Additional Compensation:
+Bonuses
+Work Location:
+One location
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Schedule:
+Monday to Friday",5.0,"InfoBeyond Technology LLC
+5.0","Louisville, KY",-1,1 to 50 Employees,-1,Unknown,-1,-1,Less than $1 million (USD),-1
+10,Clinical Lab Scientist/MT,-1,"Description
+
+Performs various routine and complex clinical laboratory tests according to established policies and procedures in order to obtain data for use in the diagnosis and treatment of disease. Assess test results for accuracy. Performs routine scheduled preventative maintenance, calibration, and minor problem troubleshooting on laboratory instruments. May perform blood specimen collection, training personnel and students. Independent judgment and professional education and certification are required.
+
+Qualifications
+
+REQUIRED QUALIFICATIONS:
+
+A bachelor’s degree in Clinical/Medical Laboratory Science.
+
+Successful completion of the ASCP or AMT Board of Certification CLS exam within the first year of employment is also required.
+
+Alternative bachelor’s degrees are acceptable with successful completion of ASCP or AMT CLS certification exam prior to employment.
+
+Maintains current certification according to guidelines established by appropriate certifying agency.
+
+Interpersonal skills sufficient to interact effectively and communicate with patients and other health care professionals.
+
+http://www.osfcareers.orgHigh level of professionalism and skillful performance in stressful situations.
+
+Must possess sufficient academic, technical, and clinical skills and knowledge to evaluate, troubleshoot, research, and resolve day-to-day problems that arise or special projects as assigned by the laboratory management.
+
+PREFERRED QUALIFICATIONS:
+
+Experience not required but 1-2 years preferred.
+
+EOE/Minorities/Females/Vet/Disabled
+
+Job seekers will be afforded equal opportunity regardless of their race, ethnicity, veteran status or disability status.
+
+Experience the OSF culture and community by clicking here.",3.8,"OSF Healthcare
+3.8","Danville, IL",-1,10000+ Employees,1877,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),-1
+11,Technical Service Field Scientist – Biofuels North America,-1,"Pioneer a brighter future
+At Novozymes, we work in close partnership with our customers and the global community to make a sustainable impact. We use science to advance industries, and as part of Agriculture & Bioenergy, you will work across the agricultural value chain to provide biological solutions that help feed and fuel a growing world.
+
+Technical Service Field Scientist – Biofuels North America
+The US ethanol industry is an exciting and dynamic place to work and we are looking for motivated individuals to implement our market-leading products and services.
+
+We are looking for an experienced and personable candidate to join our Biofuels Technical Service team. In this role, you will work with our customers at ethanol plants across the US to learn their processes, understand their challenges, and deliver products and services from Novozymes’ wide portfolio. This will require strong collaboration both with the ethanol producers and the Novozymes Biofuels team.
+
+To be successful in this role, you should be a strong logical thinker with the ability to solve complex technical problems and communicate in an understandable and convincing manner. In addition, you should have a business understanding of how the science will impact economic factors for Novozymes and our customers. In this dynamic and evolving industry, you will need to be able to adapt to exciting and ever-changing information and technology.
+
+Location
+The position will ideally be based out of a home office in Kansas City, MO or the surrounding states including Missouri, Illinois, Iowa, and Nebraska.
+
+In this position you need to have:
+A minimum of 4 years of relevant experience in the Ethanol industry or Agricultural industry.
+A minimum of a BS degree in a scientific field such as Engineering, Chemistry, Biology, Microbiology, Biochemistry.
+A solid science background, including engineering, data analysis and fermentation.
+Both process experience in the ethanol or corn milling industry and experience working in a technical service or technical sales role (would be ideal).
+Ability to travel approximately 50%.
+
+Note: The job level can potentially be adjusted to accommodate applicants with significantly more experience
+
+Are you the next Zymer in our team? Consider a career with Novozymes and let’s realize your potential together.
+
+Novozymes is the world leader in biological solutions. Together with customers, partners and the global community, we improve industrial performance while preserving the planet’s resources and helping build better lives. As the world’s largest provider of enzyme and microbial technologies, our bioinnovation enables higher agricultural yields, low-temperature washing, energy-efficient production, renewable fuel and many other benefits that we rely on today and in the future. We call it Rethink Tomorrow. www.novozymes.com
+
+Novozymes is committed to creating a diverse environment and is proud to be an equal opportunity and affirmative action employer. All employment decisions are based on business needs without regard to race, color, ethnicity, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, disability or veteran status.
+
+Application deadline: October 30, 2020",3.8,"Novozymes
+3.8","Ames, IA",-1,5001 to 10000 Employees,2000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+12,Research Scientist,-1,"Job Description:
+
+Our Reston office is seeking talented candidates to develop mathematical models and algorithms, develop and demonstrate prototype software, and participate in operational analysis related to their technical work. Our Reston office employs mathematicians, physicists and computer scientists. We routinely apply stochastic processes, statistical inference, optimization and scheduling, models of random graphs and applied physics to develop the underlying theory and applications for our clients. The successful candidate will interact with customers, gather requirements and data, write and present briefings, and contribute to the development of Metron tools.
+
+Projects typically involve developing advanced algorithms implemented in a computer prototype system for our research & development customers. We work in small teams, led by Senior Scientists, who work closely with new employees. Project teams work together from the initial system concept, through software and algorithm design, to implementation and demonstration.
+
+We believe an employee's specific academic training is not as important as their innate ability and willingness to learn new areas of mathematics and work on difficult problems.
+
+Required Qualifications:
+MS or PhD in Computer Science, Mathematics, Applied Mathematics, Physics or Operations Research
+Some programming experience is preferred (C, C++, Java, Matlab, etc.)
+Mathematical, simulation, or physical modeling experience highly desired
+US Citizenship required, position will require background investigation to authorize access to classified information
+
+Position Location: Reston, VA
+
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
+
+VEVRAA Federal Contractor",3.0,"Metron, Inc.
+3.0","Reston, VA",-1,51 to 200 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),-1
+13,Associate Data Scientist,-1,"Job Description
+
+As an Associate Data Scientist, you will apply modern data storage, movement, and transformation architectures and techniques to extract and engineer features from any scale structured or unstructured data in health, IT system, business processes, or external data. You will also access, cleanse, compile, and transform disparate data sets to conduct exploratory and pre-defined analyses using scientifically valid techniques and generate meaningful insights as well as assist with feasibility studies to identify data availability, quality and modeling requirements, and dependencies.
+
+Qualifications
+
+Basic Qualifications
+Master’s Degree in Statistics, Computer Science, Analytics, Biostatistics, Applied Mathematics, Software Engineering, Data Science, or related field, or equivalent relevant work experience
+At least 1 year of statistical programming and applied programming work experience
+At least 1 year Data mining, quantitative analysis, and/or statistical modeling including predictive performance and algorithm optimization work experience
+Preferred Qualifications
+Experience with relational databases and SQL; NoSQL databases (hBase, Cassandra, MongoDB, Couch DB, Riak) and unstructured data; Spark; Pig and Avro
+Experience with agile software development methodologies
+Expectations
+Willing to travel up to 20% of the time as needed
+Must be currently residing in or willing to relocate to the Kansas City metro area",4.0,"Cerner
+4.0","North Kansas City, MO",-1,10000+ Employees,1979,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),-1
+14,Sr. Data Scientist,-1,"Medifast is seeking a full-time Senior Data Scientist to join our team.
+The Senior Data Scientist will be responsible for anticipating future business needs, solving real-time business questions, and identifying new applications for complex analysis.
+The candidate focus will be using Machine Learning for the following use cases at Medifast:
+Demand Forecasting, Recommendation Engines, Sentiments Analysis, Survival Analysis, Natural Language Processing, AB Testing, and Customer Segmentation (Unsupervised Learning).
+
+Employ machine learning and statistical modeling to generate new features to feed into our data core. Key Models include: Demand Forecasting, Recommendation Engines, Sentiments Analysis, Survival Analysis, and Customer Segmentation
+Use storytelling to bring out the insights derived from machine learning and statistical modeling making the complex easy to follow and digestible
+Perform automated market analyses to dynamically react to changing market conditions
+Discover new predictive insights in our datasets and design measures that compute new predictive models while using data visualization methodology
+Assist the Insights Center Manager in using Data Science to enhance the Insights Roadmap and assist in the selection of Data Science products to help enable and maintain the Data Science stack
+Create measures that monitor inputs and performance on a real-time basis to inform the insights council when unexpected changes arise.
+Be active in communications with business users and data management resources to collaborate through a project lifecycle as data changes occur
+Aid and train end super users to effectively use the Data Science platform
+Coordinate with offshore technical resources
+
+PHD degree or equivalent preferred in Applied Statistics, Mathematics or a related data field
+5-8 years related experience
+Executing solutions to business problems using advanced statistics, testing methods, data analysis, data mining, predictive modeling, optimization, and machine learning techniques;
+Design and run end-to-end experiments with statistical rigor for test and learn, apply appropriate sampling methods and probabilistic simulations to hypothesis testing and parameter estimation including bootstrapping
+Perform data exploration and visualization (using Tableau and other visualization tools), apply machine learning and statistical inference to seed hypotheses, identify opportunities, define metrics, provide interpretability to multi-dimensional scoring, regressor and classifier models, and decision tree learning, using novel methods;
+Employ statistical programming through, Python, R, Dataiku, and toolkits (Scikit-learn, Pandas, Numpy, Scipy, PySpark, Jupyter Notebook and kernel, Macro) across disparate environments including Linux/Unix command line and shell scripting, virtual and clouds
+Execute and automate data preprocessing via relational systems (AWS, Redshift, SQL Server, MySQL, Postgre, and, Oracle), and parallel computing for big data, using analytics engine and cluster computing frameworks: Apache Spark and Hadoop MapReduce, Apache Tez, and Yarn.
+#LI-JP1",3.0,"Medifast, Inc.
+3.0","Baltimore, MD",-1,501 to 1000 Employees,1980,Company - Public,"Health, Beauty, & Fitness",Consumer Services,$500 million to $1 billion (USD),-1
+15,Data Scientist,-1,"Job Title: Data Scientists
+
+Job Description
+Join an elite group dedicated to continuous personal improvement as GCT is currently seeking Data Scientists of all levels to support an intelligence agency with insights gained from analyzing voluminous sensor data. The ideal candidate is adept at using large data sets to find opportunities for process optimization and using models to test the effectiveness of different courses of action. Candidates must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Clearance: TS/SCI w/Full scope polygraph (or used within the past 24 months)
+
+Education/Experience Requirements
+
+Senior Positions:
+Masters degree in Data Science, Statistics, Mathematics, Computer Science or another quantitative field, or extensive comparable experience
+10+ years of relevant experience
+Junior/Intermediate Positions
+Completed B.S. in Data Science, Mathematics, Statistics, Computer Science, Computer Engineering, or a closely related technical field
+3-9 years of relevant experience
+Qualifications
+Experience using statistical computer languages (SAS, SPSS, R, Python, SLQ, etc.) to manipulate data and draw insights fromlarge data sets
+Experience working with and creating data architectures
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Excellent written and verbal communication skills
+Strong problem solving skills
+A drive to learn and master new technologies and techniques
+Desired Skills
+Experience manipulating data sets and building statistical models
+Coding knowledge and experience with several languages: C, C++, Java, JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, Bayes, etc.
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+Experience using web services: Redshift, S3, Spark, DigitalOcean, AWS, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+The success of Great-Circle Technologies depends on the success and well-being of its employees. GCT promotes work/life balance and encourages the overall well-being of each of its contributors. A comprehensive benefits package is provided, which currently includes company paid single medical, dental, life, disability, and long-term care insurances (with contributions to family premiums,) matching 401k plan, 34 days off per year including 10 Federal holidays plus the day after Thanksgiving, Christmas and New Year’s eves!
+
+Join us at Great-Circle Technologies, where innovation is the shortest distance between two points.
+
+Great-Circle Technologies is an Equal Opportunity Employer. Great-Circle Technologies ensures all qualified applicants will receive consideration for employment without regard to gender, race, ethnic background, religion, disability, sexual orientation, gender identity, national origin, age, or protected veteran status.",2.2,"Great-Circle Technologies
+2.2","Chantilly, VA",-1,1 to 50 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),-1
+16,Data Engineer,-1,"Summary of Responsibilities
+
+Codes and develops software applications. Works as part of a development team on the design and implementation of analytical applications, including current Business Intelligence technologies, modern programming languages (Python, Scala, R) and current SQL database skills. Conducts requirement analysis, produces design documents on proposed solutions, and delivers consistent, test-covered, high quality code in a timely fashion. Recommends and completes product revisions or enhancements based on feedback. Develops and maintains documentation as required.
+
+Performs work under minimal supervision. Handles moderate to complex issues and problems, and engages higher-level staff on only the most complex issues as necessary. Possesses comprehensive knowledge of subject matter. Provides coaching, and/or mentoring to a subordinate group.
+
+Preferred Experience and Skills
+
+Four to Eight year of related experience
+Technical expertise and detail orientated
+Complex problem-solving and critical thinking skills
+Analytical thinking skills
+Ability to build collaborative skills
+Agile/SCRUM methodology experience
+Azure DevOps experience
+Property and Casualty insurance experience
+4+ years of Hands-on experience with SQL databases, SSIS/Informatica ETL, Power BI, Cloud based integration tools.
+Knowledge of Data warehousing concepts, and data modeling using Kimball methodology.
+
+Preferred Education and Training
+
+Bachelor’s degree in Computer Science or related field
+
+INDSP",3.6,"West Bend Mutual Insurance Company
+3.6","West Bend, WI",-1,1001 to 5000 Employees,1894,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1
+17,Data Scientist,-1,"Company Description
+
+MMIT is growing from the leading drug coverage data business into a comprehensive, integrated market access company serving pharmaceutical manufacturers, health insurers, PBMs and healthcare IT companies. Their suite of applications is designed to manage an ever-changing proprietary set of pharmacy and medical benefit information and to provide a structured view of complex market access information. By embedding their data and SaaS applications across healthcare, they help ensure transparency, consistency and informed prescription decisions across the MMIT Network. They partner with hundreds of payers and pharma manufacturers ensuring that their products continually capture and analyze coverage and restriction criteria for more than 98% covered lives.
+
+Team Overview
+
+The MMIT Product Management Team is charged with developing, growing and maintaining the MMIT product portfolio that smooth access to lifechanging therapies. This entails managing products through all phases of the product lifecycle, from concept to sunset. The product management team embraces a market-backed perspective, champions unmet client needs, and is committed to a highly accountable and collaborative Product Management approach.
+
+Job Description
+
+MMIT is seeking experienced Data Scientists to meaningful contributes to the growth and development of the MMIT product portfolio. Ideal candidates are comfortable working with large, complex data sets to help inform, simplify and actualize key product capabilities. They will have comfort collaborating with various stakeholders and navigating ambiguity with limited direction. They will dedicate themselves to understanding the MMIT product portfolio (both current capabilities and future product roadmaps) and key data dependencies to inform data models, architecture, and new product development.
+
+To succeed in this role, you will apply your skillset to
+
+· Inform, create and/or maintain master data hierarchy, attributes and structure.
+
+· Bridge claims data and coverage data – Refine existing rules and create and continually improve new methods for accurately assigning pharmacy and medical claims volumes to MMIT controller entities
+
+· Apply data science to the creation of short and long form geographic market and controller entity descriptive narratives (NLP / NLG)
+
+· Translate product management strategy into actionable data science deliverables, guiding development of data models, business rules and other advanced analytical capabilities
+
+· Excel at communicating across a broad set of cross-functional stakeholders.
+
+· Work collaboratively with MMIT product and data teams to develop and/or commercialize analytics use cases that may include market access, coverage / lives, and RWE data
+
+· Effectively partner with external organizations including clients and vendors to develop meaning and projectable analytics about trends in market access dynamics across payers, geographies, indications, drugs, etc.
+
+· Identify and evaluate additional data sources that could be integrated in value enhancing ways.
+
+· Build reports, dashboards and/or other analyses as needed and/or as specific initiatives arise.
+
+· Support various commercial or commercialization efforts as needed.
+
+· Take a leading role in developing data science as a discipline across product management, development and data operations.
+
+Qualifications
+
+Relevant Skills and Experiences
+
+· Postgraduate degree or higher involving machine learning, statistics, or computer science
+
+· Experience of statistical / machine learning projects in academia or commercial sector end to end with proven delivery capability including capturing requirements, designing analysis plans, interfacing with clients and report / manuscript writing
+
+· Experience in applying Natural Language Processing and related AI capabilities.
+
+· Experience working with large and complex healthcare datasets, preferably patient-level longitudinal data and experience with studies of treatment effectiveness/outcomes, disease progression, adherence, healthcare utilization, patient journey, sales targeting, prescription/procedure volumes/shares, provider networks and prescribing/treatment patterns, etc
+
+· Strong related programming skills including experience with good coding practices and a thorough understanding of the data science package landscape. Familiarity with Tableau and PowerBI a plus.
+
+· Familiarity with agile software development practices
+
+· Excellent written and spoken communication skills, including ability to present technical concepts to lay audiences, write analysis plans for projects, contribute to proposals / grant applications, pitch ideas effectively and persuasively to clients / internal stakeholders, etc.
+
+· Demonstrated ability to work both collaboratively to solve complex problems and individually to research/advance areas of interest and exploration
+
+· Proven ability to develop meaningful/valuable analytic insights from multiple data sources and support value through commercialization
+
+Preferred candidates may also have
+
+· Experience supporting or launching Data and Analytics or SaaS-based enterprise product
+
+· Experience in managed markets and pharma market access ecosystem
+
+· Experience in the commercial health insurance industry
+
+· Knowledge of payer marketing, drug development lifecycle and drug launch process
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
+Position will be based in Livingston NJ or Yardley PA
+
+(highly qualified remote applicants will be considered)
+
+Travel Requirements:
+
+Approximately <10>",3.8,"MMIT
+3.8","Yardley, PA",-1,201 to 500 Employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1
+18,Data Scientist,-1,"AIS has a workshare opportunity for a Data Scientist (TS/FSPOLY required) on a large, newly awarded contract. In this role you will develop machine learning, data mining, statistical and graph-based algorithms to analyze and make sense of datasets; prototype or consider several algorithms and decide upon final model based on suitable performance metrics.
+Roles and Responsibilities:
+Produce data visualizations that provide insight into dataset structure and meaning
+Work with subject matters experts (SMEs) to identify important information in raw data and
+develop scripts that extract this information from a variety of data formats (e.g., SQL tables, structured metadata, network logs)
+Incorporate SME input into feature vectors suitable for analytic development and testing
+Translate customer qualitative analysis process and goals into quantitative formulations that are coded into software prototypes
+Develop and implement statistical, machine learning, and heuristic techniques to create descriptive,
+predictive, and prescriptive analytics
+Develop statistical tests to make data-driven recommendations and decisions
+Develop experiments to collect data or models to simulate data when required data are unavailable
+Develop feature vectors for input into machine learning algorithms
+Identify the most appropriate algorithm for a given dataset and tune input and model parameters
+Evaluate and validate the performance of analytics using standard techniques and metrics (e.g.cross-validation, ROC curves, confusion matrices)
+Required Education, Experience and Skills
+Master's degree in a quantitative discipline(e.g., statistics, mathematics, operations research, engineering, or computer science).
+A Ph.D. in a quantitative discipline can be substituted for three years of experience
+Five years of experience analyzing datasets and developing analytics.
+Five years of experience programming with data analysis software such as R, Python, SAS, or MATLAB.
+An additional two years of experience in software development, cloud development, analyzing datasets or developing descriptive, predictive, and prescriptive analytics can be substituted for a Master's degree.
+U.S. Citizenship Required
+Must possess a TS/FSPOLY clearance
+EOE/AA Disability/Veteran",4.3,"Assured Information Security, Inc. (AIS)
+4.3","Fort Meade, MD",-1,201 to 500 Employees,2001,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1
+19,Scientist - Automation,-1,"JOB DESCRIPTION
+
+Title: Scientist - Automation
+
+Department: Vaccine Sciences - Dabney
+
+Location: Richmond, Virginia
+
+PPD is a leading global contract research organization providing comprehensive, integrated drug development, laboratory and lifecycle management services. At PPD, we are passionate, deliberate, and driven by our purpose- to improve health!
+
+Envision a workplace where you have a direct impact on improving health, work alongside expert scientists, use newest technologies and collaborate with industry thought leaders and therapeutic experts. Welcome to PPD® Laboratories, where science is our passion, quality is our commitment and people are the cornerstone of our success.
+
+As a Scientist you will perform a variety of complex sample preparation and analysis procedures to quantitatively measure pharmaceutical and biopharmaceutical compounds in a variety of formulations and/or biological matrices.
+
+At PPD we hire the best, develop ourselves and each other, and recognize the power of being one team. We offer continued career advancement opportunities, award winning training and benefits focused on the health and well being of our employees.
+
+Summarized Purpose:
+
+A scientist possesses a thorough understanding of laboratory procedures and can reliably conduct complex analysis with increased independence. Performs a variety of complex sample preparation and analysis procedures to quantitatively measure pharmaceutical and biopharmaceutical compounds in a variety of formulations and/or biological matrices. Follows validated or experimental analytical procedures with periodic direct supervision. Responsible for review and compilation of results and data comparison against SOP acceptance criteria, methodology, protocol and product specifications. Enters data into databases and reports. Performs self-review for own data prior to QC submission.
+
+Essential Functions:
+
+Performs a variety of complex sample preparation and analysis procedures to quantitatively measure pharmaceutical and biopharmaceutical compounds in a variety of formulations and /or biological matrices for stability and analytical testing.
+
+Works with multiple functional groups to meet business needs
+
+Plans and organizes work with periodic supervision
+
+Sets up and maintains analytical instrumentation.
+
+Trains on routine operation, maintenance and theory of analytical instrumentation, SOPs and regulatory procedures and guidelines.
+
+Ensures QA findings are addressed appropriately.
+
+Aids and training to other team members.
+
+Problem solving, either independently or with assistance pertaining to extraction and/or instrumentation problems.
+
+Communicates project status to project leader.
+
+Performs work assignments accurately, and in a timely and safe manner.
+
+Reviews, interprets, and analyzes data for technical, quality and compliance to protocols, methods, SOPs, client criteria and Good Manufacturing Practices (GMP) or Good Laboratory Practices (GLP).
+
+Performs self and peer review of the data for accuracy and compliance with reporting requirements prior to submission to QA and issuance to customers.
+
+#GD
+#LI-AP1
+PPDLABS
+
+Job Qualification
+
+Education and Experience:
+
+Bachelor's degree in science (biology or chemistry prefrred) or equivalent and relevant formal academic / vocational qualification
+Previous experience that provides the knowledge, skills, and abilities to perform the job (comparable to 2+ years).
+In some cases, an equivalency, consisting of a combination of appropriate education, training and/or directly related experience, will be considered sufficient for an individual to meet the requirements of the role.
+
+Knowledge, Skills and Abilities:
+
+Demonstrated knowledge of multiple laboratory techniques
+Knowledge and hands on experience with automated laboratory equipment
+
+Proficient in Microsoft Excel and Word
+
+Proven ability to interpret data by performing trend analysis
+
+Proven ability in technical writing skills
+
+Ability to independently optimize analytical methods
+
+Proven problem solving and troubleshooting abilities
+
+Good written and oral communication skills
+
+Time management and project management skills
+
+Ability to work in a collaborative work environment with a team
+
+Working Environment:
+
+PPD values the health and well being of our employees. We support and encourage individuals to create a healthy and balanced environment where they can thrive. Below is listed the working environment/requirements for this role:
+
+Able to communicate, receive, and understand information and ideas with diverse groups of people in a comprehensible and reasonable manner.
+Able to work upright and stationary and/or standing for typical working hours.
+Able to lift and move objects up to 25 pounds
+Able to work in non-traditional work environments.
+Able to use and learn standard office equipment and technology with proficiency.
+May have exposure to potentially hazardous elements, including infectious agents, typically found in healthcare or laboratory environments.
+Able to perform successfully under pressure while prioritizing and handling multiple projects or activities.
+
+PPD Defining Principles:
+
+We have a strong will to win - We earn our customer’s trust - We are gamechangers - We do the right thing - We are one PPD -
+
+If you resonate with our five principles above, and ultimately wish to accelerate the delivery of safe and effective therapeutics for some of the world’s most urgent health needs, then please submit your application – we’d love to hear from you.
+
+Diversity Statement
+PPD is proud to be an affirmative action employer that values diversity as a strength and fosters an environment of mutual respect. PPD is committed to providing equal employment opportunities without regard to age, race, color, pregnancy, national origin, religion, sex, gender identity, sexual orientation, disability, veteran status or status within any other protected group.",3.8,"PPD
+3.8","Richmond, VA",-1,10000+ Employees,1985,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),-1

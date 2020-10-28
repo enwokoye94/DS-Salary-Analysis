@@ -1,3 +1,4 @@
+
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
@@ -7,14 +8,15 @@ import pandas as pd
 def get_jobs(keyword, num_jobs, verbose, chromedriver):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
 
-    # Initializing the webdriver options
+    # Initializing the webdriver
     options = webdriver.ChromeOptions()
 
     # Uncomment the line below if you'd like to scrape without a new Chrome window every time.
     options.add_argument('headless')
 
     # Change the path to where chromedriver is in your home folder.
-    driver = webdriver.Chrome(executable_path=chromedriver, options=options)
+    driver = webdriver.Chrome(
+        executable_path=chromedriver, options=options)
     driver.set_window_size(1120, 1000)
 
     url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword
@@ -26,7 +28,7 @@ def get_jobs(keyword, num_jobs, verbose, chromedriver):
 
         # Let the page load. Change this number based on your internet speed.
         # Or, wait until the webpage is loaded, instead of hardcoding it.
-        time.sleep(1)
+        time.sleep(4)
 
         # Test for the "Sign Up" prompt and get rid of it.
         try:
@@ -39,6 +41,7 @@ def get_jobs(keyword, num_jobs, verbose, chromedriver):
         try:
             # clicking to the X.
             driver.find_element_by_css_selector('[alt="Close"]').click()
+
         except NoSuchElementException:
             pass
 
@@ -72,7 +75,7 @@ def get_jobs(keyword, num_jobs, verbose, chromedriver):
 
             try:
                 salary_estimate = driver.find_element_by_xpath(
-                    './/span[@class="gray salary"]').text
+                    './/span[@class="gray small salary"]').text
             except NoSuchElementException:
                 salary_estimate = -1  # You need to set a "not found value. It's important."
 
@@ -199,10 +202,6 @@ def get_jobs(keyword, num_jobs, verbose, chromedriver):
     # This line converts the dictionary object into a pandas DataFrame.
     return pd.DataFrame(jobs)
 
-## MUST DOWNLOAD GOOGLE CHROME DRIVER AND ADD TO PATH!!
 path = r"C:\Users\Ekene\Documents\Chromedriver\chromedriver.exe"
-keywords = ['data scientist', 'data analyst']
-
-data = get_jobs('data analyst', 2000, False, path)
-
-data.to_csv('csv_files/Oct-2020-Jobs.csv')
+data = get_jobs('Data Analyst', 1000, False, path)
+data.to_csv('csv_files/Oct2020_jobs.csv')
